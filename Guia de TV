@@ -4,3 +4,13 @@
     <display-name lang="en">Example</display-name>
     <url>http://www.dummy</url>
   </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/a&amp;e-457_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/a&amp;e-457_95x39.png" />
+    <url>http://www.netcombo.com.br</url>
+  </channel>
