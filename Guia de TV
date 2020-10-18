@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
