@@ -396,7 +396,7 @@ http://ts.ec.cx:1080/hls1/natgeo.m3u8
 http://104.128.74.178:2086/streams/117_.m3u8
 
 #EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Filmes",NatGeo Wild
-http://ts.ec.cx:1080/hls1/natgeowild.m3u8
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/354.m3u8
 
 #EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Filmes",NatGeo Wild [Alter]
 http://104.128.74.178:2086/streams/119_.m3u8
