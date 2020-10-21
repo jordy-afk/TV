@@ -452,6 +452,9 @@ http://ts.ec.cx:1080/hls1/investigacaodiscovery.m3u8
 #EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="",Discovery Theater
 http://104.128.74.178:2086/streams/105_.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="",Discovery Theater [Alter]
+http://pe4.distv.net:8080/live/JU/@JU/12.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Discovery Science
 http://104.128.74.178:2086/streams/121_.m3u8
 
