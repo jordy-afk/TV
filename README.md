@@ -63,7 +63,7 @@ http://104.128.74.178:2086/streams/151_.m3u8
 http://104.128.74.178:2086/streams/111_.m3u8
 
 #EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television
-http://ts.ec.cx:1080/hls1/canale.m3u8
+http://51.161.119.168:25461/hls1/canale.m3u8
 
 #EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television [Alter]
 http://104.128.74.178:2086/streams/155_.m3u8
