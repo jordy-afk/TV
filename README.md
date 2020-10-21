@@ -408,7 +408,7 @@ http://pe4.distv.net:8080/live/JU/@JU/1.m3u8
 http://104.128.74.178:2086/streams/99_.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel
-http://ts.ec.cx:1080/hls1/history.m3u8
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/326.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel [Alter]
 http://104.128.74.178:2086/streams/115_.m3u8
