@@ -389,6 +389,9 @@ http://104.128.74.178:2086/streams/131_.m3u8
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Filmes",Cartoon Network
 http://pe4.distv.net:8080/live/JU/@JU/4.m3u8
 
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Filmes",National Geographic Kids
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
+
 #EXTINF:0 tvg-id="Natgeohd.br" group-title="Filmes",National Geographic HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/358.m3u8
 
