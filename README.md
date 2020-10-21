@@ -423,7 +423,7 @@ http://104.128.74.178:2086/streams/223_.m3u8
 http://104.128.74.178:2086/streams/123_.m3u8
 
 #EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD
-http://ts.ec.cx:1080/hls1/Discovery.m3u8
+http://pe4.distv.net:8080/live/JU/@JU/7.m3u8
 
 #EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD [Alter]
 http://104.128.74.178:2086/streams/103_.m3u8
