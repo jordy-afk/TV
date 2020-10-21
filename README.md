@@ -429,7 +429,7 @@ http://pe4.distv.net:8080/live/JU/@JU/7.m3u8
 http://104.128.74.178:2086/streams/103_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD
-http://ts.ec.cx:1080/hls1/discoveryturbo.m3u8
+http://pe4.distv.net:8080/live/JU/@JU/13.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD [Alter]
 http://104.128.74.178:2086/streams/107_.m3u8
