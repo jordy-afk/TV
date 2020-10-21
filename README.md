@@ -402,7 +402,7 @@ http://ts.ec.cx:1080/hls1/natgeowild.m3u8
 http://104.128.74.178:2086/streams/119_.m3u8
 
 #EXTINF:0 tvg-id="Animalplanet.br" group-title="Filmes",Animal Planet
-http://ts.ec.cx:1080/hls1/animalplanet.m3u8
+http://pe4.distv.net:8080/live/JU/@JU/1.m3u8
 
 #EXTINF:0 tvg-id="Animalplanet.br" group-title="Filmes",Animal Planet [Alter]
 http://104.128.74.178:2086/streams/99_.m3u8
