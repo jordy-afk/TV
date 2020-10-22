@@ -105,7 +105,7 @@ http://ts.ec.cx:1080/hls1/syfy.m3u8
 http://104.128.74.178:2086/streams/174_.m3u8
 
 #EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC
-http://ts.ec.cx:1080/hls1/tlc.m3u8
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/506.m3u8
 
 #EXTINF:0 tvg-id="Gnt.br" tvg-logo=".png" tvg-logo="https://s2.glbimg.com/RZYAVivQmzjwrKk2jaQM8jWyHYY=/0x0:916x515/1080x608/smart/filters:max_age(3600)/https://s2.glbimg.com/rTpay0Sz1pe1GNsimehYFKLCH_0=/0x0:661x346/984x0/smart/filters:strip_icc()/g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/05/10/GNT_logo-roxo.png" group-title="Channels",GNT
 http://ts.ec.cx:1080/hls1/gnt.m3u8
