@@ -69,7 +69,7 @@ http://51.161.119.168:25461/hls1/canale.m3u8
 http://104.128.74.178:2086/streams/155_.m3u8
 
 #EXTINF:0 tvg-id="Bishd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/bis.jpg" group-title="Channels",BIS HD
-http://ts.ec.cx:1080/hls1/bis.m3u8
+http://51.161.119.169:25461/live/dM9DEgT3ndEgKT/iX5xgnbByGo5/45.m3u8?token=QhANVRFYGgxEDVACAAJYAg8NB1RXAgBXAFEAVwMHU1YMBlcDUgcPBQIbGRZKRxMEVlg8XgUXCVVQSEZGRwBAOlBWRw5AARoaRE1cWVwRW1EbFxNeBRcJQ1dcVAMFRx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RBVUBUhseR1cNRVZCFEAXDhtxM0MbFwZPFVBdEgwLChEOR19WTApHGEBZS2kUXEZAS1YADFJHQQ1DBRFNRwkFS2sGXQtXVwZAC19WRUQDFwQbH0MMWFsKQw5HbBEMAEYJFlQGXAsGR0k=
 
 #EXTINF:0 tvg-id="Tcm.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tcm.jpg" group-title="Channels",TCM
 http://ts.ec.cx:1080/hls1/tcm.m3u8?wmsAuthSign=
