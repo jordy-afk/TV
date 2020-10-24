@@ -7,6 +7,11 @@ http://104.128.74.178:2086/streams/259_.m3u8
 http://104.128.74.178:2086/streams/84_.m3u8
 
 
+
+#EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpg" tvg-logo="" group-title="",Globo Bahia
+http://104.128.74.178:2086/streams/25_.m3u8
+
+
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Canal Brasil
 http://104.128.74.178:2086/streams/15_.m3u8
 
