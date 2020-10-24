@@ -395,29 +395,34 @@ http://ts.ec.cx:1080/hls1/disneyxd.m3u8
 #EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD [Alter]
 http://104.128.74.178:2086/streams/131_.m3u8
 
-#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Filmes",Cartoon Network
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="",Cartoon Network
 http://pe4.distv.net:8080/live/JU/@JU/4.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Filmes",National Geographic Kids
+#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="",National Geographic Kids
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" group-title="Filmes",National Geographic HD
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="",National Geographic HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/358.m3u8
 
 #EXTINF:0 tvg-id="Natgeohd.br" group-title="Filmes",National Geographic HD [Alter]
 http://104.128.74.178:2086/streams/117_.m3u8
 
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Filmes",NatGeo Wild
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/354.m3u8
 
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Filmes",NatGeo Wild [Alter]
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild [Alter]
 http://104.128.74.178:2086/streams/119_.m3u8
 
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="Filmes",Animal Planet
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet
 http://pe4.distv.net:8080/live/JU/@JU/1.m3u8
 
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="Filmes",Animal Planet [Alter]
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet [Alter]
 http://104.128.74.178:2086/streams/99_.m3u8
+
+
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Love Nature
+http://104.128.74.178:2086/streams/75_.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/326.m3u8
