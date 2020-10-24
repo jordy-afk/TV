@@ -71,10 +71,8 @@ http://104.128.74.178:2086/streams/151_.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="" group-title="Channels",Food Network
 http://104.128.74.178:2086/streams/111_.m3u8
 
-#EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television
-http://51.161.119.168:25461/hls1/canale.m3u8
 
-#EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television [Alter]
+#EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television
 http://104.128.74.178:2086/streams/155_.m3u8
 
 #EXTINF:0 tvg-id="Bishd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/bis.jpg" group-title="Channels",BIS HD
@@ -83,23 +81,16 @@ http://51.161.119.169:25461/live/dM9DEgT3ndEgKT/iX5xgnbByGo5/45.m3u8?token=QhANV
 #EXTINF:0 tvg-id="Tcm.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tcm.jpg" group-title="Channels",TCM
 http://ts.ec.cx:1080/hls1/tcm.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
-http://ts.ec.cx:1080/hls1/amc.m3u8
 
-#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC [Alter]
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
 http://104.128.74.178:2086/streams/3_.m3u8
 
-#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime
-http://ts.ec.cx:1080/hls1/lifetime.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime [Alter]
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime
 http://104.128.74.178:2086/streams/169_.m3u8
 
+
 #EXTINF:0 tvg-id="Studiouniversal.br" tvg-logo=".png" tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png" group-title="Channels",Studio Universal
-http://ts.ec.cx:1080/hls1/studiouniversal.m3u8?wmsAuthSign=
-
-
-#EXTINF:0 tvg-id="Studiouniversal.br" tvg-logo=".png" tvg-logo="https://4.bp.blogspot.com/-zlI0-aFvSPs/VhWxcrzH_II/AAAAAAAAlqc/pT2pu__qCtM/s1600/2000px-Logo_Studio_Universal.svg.png" group-title="Channels",Studio Universal [Alter]
 http://104.128.74.178:2086/streams/173_.m3u8
 
 
@@ -108,9 +99,6 @@ http://104.128.74.178:2086/streams/175_.m3u8
 
 
 #EXTINF:0 tvg-id="Syfyhd.br" group-title="Channels",Syfy
-http://ts.ec.cx:1080/hls1/syfy.m3u8
-
-#EXTINF:0 tvg-id="Syfyhd.br" group-title="Channels",Syfy [Alter]
 http://104.128.74.178:2086/streams/174_.m3u8
 
 #EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC
@@ -119,10 +107,8 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:0 tvg-id="Gnt.br" tvg-logo=".png" tvg-logo="https://s2.glbimg.com/RZYAVivQmzjwrKk2jaQM8jWyHYY=/0x0:916x515/1080x608/smart/filters:max_age(3600)/https://s2.glbimg.com/rTpay0Sz1pe1GNsimehYFKLCH_0=/0x0:661x346/984x0/smart/filters:strip_icc()/g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2018/05/10/GNT_logo-roxo.png" group-title="Channels",GNT
 http://ts.ec.cx:1080/hls1/gnt.m3u8
 
-#EXTINF:0 tvg-id="Off.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="Channels",OFF
-http://ts.ec.cx:1080/hls1/off.m3u8
 
-#EXTINF:0 tvg-id="Off.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="Channels",OFF [Alter]
+#EXTINF:0 tvg-id="Off.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="Channels",OFF
 http://104.128.74.178:2086/streams/60_.m3u8
 
 #EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva
@@ -131,170 +117,118 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva [Alter]
 http://104.128.74.178:2086/streams/153_.m3u8
 
-#EXTINF:0 tvg-id="Multishow.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Channels",Multishow
-http://ts.ec.cx:1080/hls1/Multishow.m3u8
 
-
-#EXTINF:0 tvg-id="Multishow.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Channels",Multishow [Alter]
+#EXTINF:0 tvg-id="Multishow.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Channels",Multishow 
 http://104.128.74.178:2086/streams/143_.m3u8
 
-#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central
-http://ts.ec.cx:1080/hls1/comedycentral.m3u8
 
-#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central [Alter]
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central 
 http://104.128.74.178:2086/streams/149_.m3u8
 
-#EXTINF:0 tvg-id="Mtvhd.br" group-title="Channels",MTV
-http://ts.ec.cx:1080/hls1/mtv.m3u8
 
-#EXTINF:0 tvg-id="Mtvhd.br" group-title="Channels",MTV [Alter]
+#EXTINF:0 tvg-id="Mtvhd.br" group-title="Channels",MTV 
 http://104.128.74.178:2086/streams/141_.m3u8
 
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Filmes",Cinemax
-http://ts.ec.cx:1080/hls1/cinemax.m3u8
 
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Filmes",Cinemax [Alter]
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Filmes",Cinemax
 http://104.128.74.178:2086/streams/242_.m3u8
 
 
+
 #EXTINF:0 tvg-id="Tcpremium.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-premium.jpg" group-title="Filmes",Telecine Premium
-http://ts.ec.cx:1080/hls1/telecinepremium.m3u8
-
-
-#EXTINF:0 tvg-id="Tcpremium.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-premium.jpg" group-title="Filmes",Telecine Premium [Alter]
 http://104.128.74.178:2086/streams/209_.m3u8
 
-#EXTINF:0 tvg-id="Tcaction.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-action.jpg" group-title="Filmes",Telecine Action
-http://ts.ec.cx:1080/hls1/telecineaction.m3u8
 
-
-#EXTINF:0 tvg-id="Tcaction.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-action.jpg" group-title="Filmes",Telecine Action [Alter]
+#EXTINF:0 tvg-id="Tcaction.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-action.jpg" group-title="Filmes",Telecine Action 
 http://104.128.74.178:2086/streams/213_.m3u8
 
-#EXTINF:0 tvg-id="Tcpipoca.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-pipoca.jpg" group-title="Filmes",Telecine Pipoca
-http://ts.ec.cx:1080/hls1/telecinepipoca.m3u8
 
 
-#EXTINF:0 tvg-id="Tcpipoca.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-pipoca.jpg" group-title="Filmes",Telecine Pipoca [Alter]
+#EXTINF:0 tvg-id="Tcpipoca.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-pipoca.jpg" group-title="Filmes",Telecine Pipoca 
 http://104.128.74.178:2086/streams/207_.m3u8
 
-#EXTINF:0 tvg-id="Tctouch.br" tvg-logo=".png" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-touch.jpg" group-title="Filmes",Telecine Touch
-http://ts.ec.cx:1080/hls1/telecinetouch.m3u8
 
-#EXTINF:0 tvg-id="Tctouch.br" tvg-logo=".png" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-touch.jpg" group-title="Filmes",Telecine Touch [Alter]
+#EXTINF:0 tvg-id="Tctouch.br" tvg-logo=".png" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-touch.jpg" group-title="Filmes",Telecine Touch 
 http://104.128.74.178:2086/streams/211_.m3u8
 
-#EXTINF:0 tvg-id="Tccult.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-cult.jpg" group-title="Filmes",TELECINE Cult
-http://ts.ec.cx:1080/hls1/telecinecult.m3u8
-
-
-#EXTINF:0 tvg-id="Tccult.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-cult.jpg" group-title="Filmes",TELECINE Cult [Alter]
+#EXTINF:0 tvg-id="Tccult.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-cult.jpg" group-title="Filmes",TELECINE Cult 
 http://104.128.74.178:2086/streams/203_.m3u8
 
-#EXTINF:0 tvg-id="Tcfun.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-fun.jpg" group-title="Filmes",Telecine Fun
-http://ts.ec.cx:1080/hls1/telecinefun.m3u8
 
-#EXTINF:0 tvg-id="Tcfun.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-fun.jpg" group-title="Filmes",Telecine Fun [Alter]
+#EXTINF:0 tvg-id="Tcfun.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/telecine-fun.jpg" group-title="Filmes",Telecine Fun
 http://104.128.74.178:2086/streams/205_.m3u8
 
-#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",AXN HD
-http://ts.ec.cx:1080/hls1/axn.m3u8
 
-#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",AXN HD [Alter]
+
+#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",AXN HD
 http://104.128.74.178:2086/streams/181_.m3u8
 
-#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",A&E
-http://ts.ec.cx:1080/hls1/aie.m3u8
 
-#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",A&E [Alter]
+#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",A&E 
 http://104.128.74.178:2086/streams/157_.m3u8
 
-#EXTINF:0 tvg-id="Sony.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/canal-sony.jpg" group-title="Filmes",Canal Sony
-http://ts.ec.cx:1080/hls1/sony.m3u8
 
-#EXTINF:0 tvg-id="Sony.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/canal-sony.jpg" group-title="Filmes",Canal Sony [Alter]
+#EXTINF:0 tvg-id="Sony.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/canal-sony.jpg" group-title="Filmes",Canal Sony 
 http://104.128.74.178:2086/streams/159_.m3u8
 
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes",Paramount Channel
-http://ts.ec.cx:1080/hls1/paramount.m3u8
 
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes",Paramount Channel [Alter]
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Filmes",Paramount Channel 
 http://104.128.74.178:2086/streams/172_.m3u8
 
-#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes",Universal Channel
-http://ts.ec.cx:1080/hls1/universal.m3u8
 
-#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes",Universal Channel [Alter]
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Filmes",Universal Channel 
 http://104.128.74.178:2086/streams/177_.m3u8
 
+
+
 #EXTINF:0 tvg-id="Space.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/space.jpg" group-title="Filmes",Space
-http://ts.ec.cx:1080/hls1/space.m3u8
-
-
-#EXTINF:0 tvg-id="Space.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/space.jpg" group-title="Filmes",Space [Alter]
 http://104.128.74.178:2086/streams/200_.m3u8
 
-#EXTINF:0 tvg-id="Megapix.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/megapix.jpg" group-title="Filmes",Megapix
-http://ts.ec.cx:1080/hls1/megapix.m3u8
 
-#EXTINF:0 tvg-id="Megapix.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/megapix.jpg" group-title="Filmes",Megapix [Alter]
+
+#EXTINF:0 tvg-id="Megapix.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/megapix.jpg" group-title="Filmes",Megapix 
 http://104.128.74.178:2086/streams/171_.m3u8
 
-#EXTINF:0 tvg-id="Hbohd.br" group-title="Filmes",HBO HD
-http://ts.ec.cx:1080/hls1/hbo.m3u8
 
-#EXTINF:0 tvg-id="Hbohd.br" group-title="Filmes",HBO HD [Alter]
+
+#EXTINF:0 tvg-id="Hbohd.br" group-title="Filmes",HBO HD 
 http://104.128.74.178:2086/streams/185_.m3u8
 
-#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Filmes",HBO 2 HD
-http://ts.ec.cx:1080/hls1/hbo2.m3u8
 
-#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Filmes",HBO 2 HD [Alter]
+
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Filmes",HBO 2 HD 
 http://104.128.74.178:2086/streams/187_.m3u8
 
-#EXTINF:0 tvg-id="Hbofamilyhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-family.jpg" group-title="Filmes",HBO Family
-http://ts.ec.cx:1080/hls1/hbofamily.m3u8
 
-#EXTINF:0 tvg-id="Hbofamilyhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-family.jpg" group-title="Filmes",HBO Family [Alter]
+#EXTINF:0 tvg-id="Hbofamilyhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-family.jpg" group-title="Filmes",HBO Family 
 http://104.128.74.178:2086/streams/193_.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus
-http://ts.ec.cx:1080/hls1/hboplus.m3u8
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus [Alter]
+#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus 
 http://104.128.74.178:2086/streams/189_.m3u8
 
-#EXTINF:0 tvg-id="Hbosignature.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-signature.jpg" group-title="Filmes",HBO Signature
-http://ts.ec.cx:1080/hls1/hbosignature.m3u8
 
 
-#EXTINF:0 tvg-id="Hbosignature.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-signature.jpg" group-title="Filmes",HBO Signature [Alter]
+#EXTINF:0 tvg-id="Hbosignature.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-signature.jpg" group-title="Filmes",HBO Signature 
 http://104.128.74.178:2086/streams/191_.m3u8
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme
-http://ts.ec.cx:1080/hls1/hboxtreme.m3u8
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme [Alter]
+#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme
 http://104.128.74.178:2086/streams/197_.m3u8
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL9pu9wyvUS3xVA768rs5NCxLWgb0EFy_k2A&usqp=CAU" group-title="Filmes",HBO MUNDI
-http://ts.ec.cx:1080/hls1/hbomundi.m3u8
 
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL9pu9wyvUS3xVA768rs5NCxLWgb0EFy_k2A&usqp=CAU" group-title="Filmes",HBO MUNDI [Alter]
+#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL9pu9wyvUS3xVA768rs5NCxLWgb0EFy_k2A&usqp=CAU" group-title="Filmes",HBO MUNDI 
 http://104.128.74.178:2086/streams/195_.m3u8
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop
-http://ts.ec.cx:1080/hls1/hbopop.m3u8
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop [Alter]
+#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop 
 http://104.128.74.178:2086/streams/183_.m3u8
 
-#EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT
-http://ts.ec.cx:1080/hls1/tnt.m3u8
 
-#EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT [Alter]
+
+#EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT
 http://104.128.74.178:2086/streams/5_.m3u8
 
 #EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series
