@@ -6,6 +6,10 @@ http://104.128.74.178:2086/streams/259_.m3u8
 #EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWdjciQvOmYT1t5z4TkR3Anu2T8Fa3J4fwcQ&usqp=CAU" group-title="Aberto",Globo News
 http://104.128.74.178:2086/streams/84_.m3u8
 
+
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Canal Brasil
+http://104.128.74.178:2086/streams/15_.m3u8
+
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo=".jpg" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ8nKWYwxYDznhPn5Rv8v7CFrB3mTrC7rRVQ&usqp=CAU" group-title="Aberto",RedeTv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
 
