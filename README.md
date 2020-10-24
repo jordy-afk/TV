@@ -420,8 +420,7 @@ http://pe4.distv.net:8080/live/JU/@JU/1.m3u8
 http://104.128.74.178:2086/streams/99_.m3u8
 
 
-
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Love Nature
+#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png" group-title="",Love Nature
 http://104.128.74.178:2086/streams/75_.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel
