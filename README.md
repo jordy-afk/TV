@@ -239,16 +239,12 @@ http://ts.ec.cx:1080/hls1/tntseries.m3u8
 #EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series [Alter]
 http://104.128.74.178:2086/streams/6_.m3u8
 
-#EXTINF:0 tvg-id="Fxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg" group-title="Filmes",FX
-http://ts.ec.cx:1080/hls1/fx.m3u8
 
-#EXTINF:0 tvg-id="Fxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg" group-title="Filmes",FX [Alter]
+#EXTINF:0 tvg-id="Fxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg" group-title="Filmes",FX
 http://104.128.74.178:2086/streams/113_.m3u8
 
-#EXTINF:0 tvg-id="Foxhd.br" group-title="Filmes",FOX
-http://ts.ec.cx:1080/hls1/fox.m3u8
 
-#EXTINF:0 tvg-id="Foxhd.br" group-title="Filmes",FOX [Alter]
+#EXTINF:0 tvg-id="Foxhd.br" group-title="Filmes",FOX
 http://104.128.74.178:2086/streams/161_.m3u8
 
 #EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
