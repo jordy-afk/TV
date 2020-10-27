@@ -111,10 +111,8 @@ http://ts.ec.cx:1080/hls1/gnt.m3u8
 #EXTINF:0 tvg-id="Off.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png" group-title="Channels",OFF
 http://104.128.74.178:2086/streams/60_.m3u8
 
-#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/542.m3u8
 
-#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva [Alter]
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva 
 http://104.128.74.178:2086/streams/153_.m3u8
 
 
