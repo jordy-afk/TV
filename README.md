@@ -231,12 +231,8 @@ http://104.128.74.178:2086/streams/183_.m3u8
 #EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT
 http://104.128.74.178:2086/streams/5_.m3u8
 
-#EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series
-http://ts.ec.cx:1080/hls1/tntseries.m3u8
 
-
-
-#EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series [Alter]
+#EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series 
 http://104.128.74.178:2086/streams/6_.m3u8
 
 
@@ -247,47 +243,31 @@ http://104.128.74.178:2086/streams/113_.m3u8
 #EXTINF:0 tvg-id="Foxhd.br" group-title="Filmes",FOX
 http://104.128.74.178:2086/streams/161_.m3u8
 
-#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
-http://ts.ec.cx:1080/hls1/foxpremium1.m3u8
 
-#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD [Alter]
+#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
 http://104.128.74.178:2086/streams/165_.m3u8
 
+
 #EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-2.jpg" group-title="Filmes",Fox Premium 2 HD
-http://ts.ec.cx:1080/hls1/foxpremium2.m3u8
-
-
-#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-2.jpg" group-title="Filmes",Fox Premium 2 HD [Alter]
 http://104.128.74.178:2086/streams/167_.m3u8
 
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Filmes",Fox Life
-http://ts.ec.cx:1080/hls1/foxlife.m3u8
 
-#EXTINF:0 tvg-id="fox-life-hd" group-title="Filmes",Fox Life [Alter]
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Filmes",Fox Life
 http://104.128.74.178:2086/streams/163_.m3u8
 
-#EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Filmes",Tooncast
-http://ts.ec.cx:1080/hls1/tooncast.m3u8
 
-#EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Filmes",Tooncast [Alter]
+#EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Filmes",Tooncast
 http://104.128.74.178:2086/streams/222_.m3u8
 
-#EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Filmes",Gloob
-http://ts.ec.cx:1080/hls1/gloob.m3u8
 
-#EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Filmes",Gloob [Alter]
+#EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Filmes",Gloob 
 http://104.128.74.178:2086/streams/133_.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloobinho.jpg" group-title="Filmes",Gloobinho
 http://iptv.movie:8080/live/igor10/igor10/1515.m3u8
 
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Filmes",Disney Junior
-http://ts.ec.cx:1080/hls1/disneyjunior.m3u8
 
-#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nickelodeon
-http://ts.ec.cx:1080/hls1/nick.m3u8
-
-#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nickelodeon [Alter]
+#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nickelodeon 
 http://104.128.74.178:2086/streams/135_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtaXT9beVDdnULlXDBcT9szQh7fx7r_lztvA&usqp=CAU" group-title="Infantil",Zoo Moo
@@ -295,16 +275,11 @@ http://104.128.74.178:2086/streams/137_.m3u8
 
 
 #EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nick Jr
-http://ts.ec.cx:1080/hls1/nickjr.m3u8
-
-#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nick Jr [Alter]
 http://104.128.74.178:2086/streams/139_.m3u8
 
-#EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/warner-channel.jpg" group-title="Infantil",Warner Channel
-http://ts.ec.cx:1080/hls1/warner.m3u8
 
 
-#EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/warner-channel.jpg" group-title="Infantil",Warner Channel [Alter]
+#EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/warner-channel.jpg" group-title="Infantil",Warner Channel 
 http://104.128.74.178:2086/streams/179_.m3u8
 
 #EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Filmes",Disney Channel
