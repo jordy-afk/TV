@@ -128,7 +128,7 @@ http://104.128.74.178:2086/streams/149_.m3u8
 http://104.128.74.178:2086/streams/141_.m3u8
 
 
-#EXTINF:0 tvg-id="CineMAX.ro" tvg-logo=".jpg" tvg-logo="https://drive.google.com/file/d/1FUmUd157b_ztos-Bb_NZJcf9INJwzi1J/view?usp=drivesdk" group-title="Filmes",Cinemax
+#EXTINF:0 tvg-id="CineMAX.ro" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png" group-title="Filmes",Cinemax
 http://104.128.74.178:2086/streams/242_.m3u8
 
 
