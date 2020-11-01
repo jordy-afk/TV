@@ -7,11 +7,6 @@ http://104.128.74.178:2086/streams/259_.m3u8
 http://104.128.74.178:2086/streams/84_.m3u8
 
 
-
-#EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpg" tvg-logo="" group-title="",Globo Bahia
-http://104.128.74.178:2086/streams/25_.m3u8
-
-
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Canal Brasil
 http://104.128.74.178:2086/streams/15_.m3u8
 
@@ -64,6 +59,9 @@ http://ts.ec.cx:1080/hls1/maisbobosat.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_5hNbJ6gQYUsOvmkOXv7XA2YK1Duo0g73Q&usqp=CAU" group-title="Channels",Curta
 http://104.128.74.178:2086/streams/20_.m3u8
+
+#EXTINF:0 tvg-logo=".jpg" tvg-logo="" group-title="",Polishop
+http://104.128.74.178:2086/streams/112_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/35/EjRj9jsXgAIBlkP.jpg/revision/latest/top-crop/width/360/height/450?cb=20201001215719&path-prefix=pt-br" group-title="Channels",Mais na Tela
 http://104.128.74.178:2086/streams/151_.m3u8
