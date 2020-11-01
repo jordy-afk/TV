@@ -60,7 +60,7 @@ http://ts.ec.cx:1080/hls1/maisbobosat.m3u8
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_5hNbJ6gQYUsOvmkOXv7XA2YK1Duo0g73Q&usqp=CAU" group-title="Channels",Curta
 http://104.128.74.178:2086/streams/20_.m3u8
 
-#EXTINF:0 tvg-logo=".jpg" tvg-logo="" group-title="",Polishop
+#EXTINF:0 tvg-logo=".png" tvg-logo="https://www.getmore.com.br/images/polishop2.png" group-title="",Polishop
 http://104.128.74.178:2086/streams/112_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/35/EjRj9jsXgAIBlkP.jpg/revision/latest/top-crop/width/360/height/450?cb=20201001215719&path-prefix=pt-br" group-title="Channels",Mais na Tela
@@ -278,22 +278,14 @@ http://104.128.74.178:2086/streams/139_.m3u8
 #EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/warner-channel.jpg" group-title="Infantil",Warner Channel 
 http://104.128.74.178:2086/streams/179_.m3u8
 
-#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Filmes",Disney Channel
-http://ts.ec.cx:1080/hls1/disney.m3u8
 
-#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Filmes",Disney Channel [Alter]
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Filmes",Disney Channel 
 http://104.128.74.178:2086/streams/129_.m3u8
 
 #EXTINF:0 tvg-id="Boomeranghd.br" group-title="Infantil",Boomerang
-http://ts.ec.cx:1080/hls1/boomerang.m3u8
-
-#EXTINF:0 tvg-id="Boomeranghd.br" group-title="Infantil",Boomerang [Alter]
 http://104.128.74.178:2086/streams/127_.m3u8
 
-#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD
-http://ts.ec.cx:1080/hls1/disneyxd.m3u8
-
-#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD [Alter]
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD 
 http://104.128.74.178:2086/streams/131_.m3u8
 
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="",Cartoon Network
@@ -302,22 +294,15 @@ http://pe4.distv.net:8080/live/JU/@JU/4.m3u8
 #EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="",National Geographic Kids
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" group-title="",National Geographic HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/358.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" group-title="",National Geographic HD [Alter]
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="",National Geographic HD 
 http://104.128.74.178:2086/streams/117_.m3u8
 
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/354.m3u8
-
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild [Alter]
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild 
 http://104.128.74.178:2086/streams/119_.m3u8
 
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet
-http://pe4.distv.net:8080/live/JU/@JU/1.m3u8
 
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet [Alter]
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet 
 http://104.128.74.178:2086/streams/99_.m3u8
 
 
@@ -325,42 +310,25 @@ http://104.128.74.178:2086/streams/99_.m3u8
 http://104.128.74.178:2086/streams/75_.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/326.m3u8
-
-#EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel [Alter]
 http://104.128.74.178:2086/streams/115_.m3u8
 
-#EXTINF:0 tvg-id="H2.br" group-title="Filmes",H2 HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/290.m3u8
-
-#EXTINF:0 tvg-id="H2.br" group-title="Filmes",H2 HD [Alter]
+#EXTINF:0 tvg-id="H2.br" group-title="Filmes",H2 HD 
 http://104.128.74.178:2086/streams/223_.m3u8
 
 #EXTINF:0 tvg-id="H2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBG6eI-PuuQZJnIY4vLZfEfRDx0kzYkWuz4A&usqp=CAU" group-title="",HGTV
 http://104.128.74.178:2086/streams/123_.m3u8
 
-#EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD
-http://pe4.distv.net:8080/live/JU/@JU/7.m3u8
-
-#EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD [Alter]
+#EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD 
 http://104.128.74.178:2086/streams/103_.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD
-http://pe4.distv.net:8080/live/JU/@JU/13.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD [Alter]
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD 
 http://104.128.74.178:2086/streams/107_.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY WORLD HD
-http://ts.ec.cx:1080/hls1/discoveryworld.m3u8
-
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY WORLD HD [Alter]
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY WORLD HD 
 http://104.128.74.178:2086/streams/108_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-home-health.jpg" group-title="Filmes",DISCOVERY HOME HEALTH
-http://ts.ec.cx:1080/hls1/discoveryhomeihealth.m3u8?wmsAuthSign=
-
-#EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-home-health.jpg" group-title="Filmes",DISCOVERY HOME HEALTH [Alter]
 http://104.128.74.178:2086/streams/101_.m3u8
 
 #EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="Filmes",Investigacao Discovery
@@ -368,9 +336,6 @@ http://ts.ec.cx:1080/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="",Discovery Theater
 http://104.128.74.178:2086/streams/105_.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="",Discovery Theater [Alter]
-http://pe4.distv.net:8080/live/JU/@JU/12.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Discovery Science
 http://104.128.74.178:2086/streams/121_.m3u8
