@@ -289,7 +289,7 @@ http://104.128.74.178:2086/streams/127_.m3u8
 http://104.128.74.178:2086/streams/131_.m3u8
 
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="",Cartoon Network
-http://pe4.distv.net:8080/live/JU/@JU/4.m3u8
+http://104.128.74.178:2086/streams/128_.m3u8
 
 #EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="",National Geographic Kids
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
