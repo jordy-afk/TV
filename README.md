@@ -83,6 +83,9 @@ http://ts.ec.cx:1080/hls1/tcm.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
 http://104.128.74.178:2086/streams/3_.m3u8
 
+#EXTINF:0 tvg-id="" group-title="",Filmes&Arts
+http://104.128.74.178:2086/streams/125_.m3u8
+
 
 #EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime
 http://104.128.74.178:2086/streams/169_.m3u8
