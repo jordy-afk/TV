@@ -278,7 +278,7 @@ http://104.128.74.178:2086/streams/139_.m3u8
 
 
 
-#EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnR2byON6qsHpcJTyGw0EZYpWrZDHpQdri1g&usqp=CAU" group-title="Infantil",Warner Channel 
+#EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnR2byON6qsHpcJTyGw0EZYpWrZDHpQdri1g&usqp=CAU" group-title="Infantil",Warner Channel 
 http://104.128.74.178:2086/streams/179_.m3u8
 
 
