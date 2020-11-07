@@ -288,7 +288,7 @@ http://104.128.74.178:2086/streams/129_.m3u8
 #EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo="" tvg-logo="" group-title="Infantil",Disney Junior
 http://104.128.74.178:2086/streams/130_.m3u8
 
-#EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo="" tvg-logo="" group-title="Infantil",Discovery Kids
+#EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGHjFPycrj6ZPnB7mYT1AYvcWBlY378skMfg&usqp=CAU" group-title="Infantil",Discovery Kids
 http://104.128.74.178:2086/streams/138_.m3u8
 
 #EXTINF:0 tvg-id="Boomeranghd.br" group-title="Infantil",Boomerang
