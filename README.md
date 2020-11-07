@@ -13,7 +13,7 @@ http://104.128.74.178:2086/streams/15_.m3u8
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo=".jpg" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ8nKWYwxYDznhPn5Rv8v7CFrB3mTrC7rRVQ&usqp=CAU" group-title="Aberto",RedeTv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 tvg-id="Sbt.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/1024px-SBT_logo.svg.png" group-title="Aberto",SBT
+#EXTINF:0 tvg-id="Sbt.br" tvg-logo=".svg" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg" group-title="Aberto",SBT
 http://104.128.74.178:2086/streams/1_.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://lh3.googleusercontent.com/dHoga7x7tSuPovBK-HHl8Ww_bWTWNt_TAh2bPfXTNLCJVczqNk_upk2yRUJAsm90laxj" group-title="Aberto",ISTV
