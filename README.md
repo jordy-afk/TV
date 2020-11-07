@@ -243,11 +243,11 @@ http://104.128.74.178:2086/streams/113_.m3u8
 http://104.128.74.178:2086/streams/161_.m3u8
 
 
-#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
 http://104.128.74.178:2086/streams/165_.m3u8
 
 
-#EXTINF:0 tvg-id="Foxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-2.jpg" group-title="Filmes",Fox Premium 2 HD
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-2.jpg" group-title="Filmes",Fox Premium 2 HD
 http://104.128.74.178:2086/streams/167_.m3u8
 
 
@@ -255,14 +255,14 @@ http://104.128.74.178:2086/streams/167_.m3u8
 http://104.128.74.178:2086/streams/163_.m3u8
 
 
-#EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Filmes",Tooncast
+#EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Infantil",Tooncast
 http://104.128.74.178:2086/streams/222_.m3u8
 
 
-#EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Filmes",Gloob 
+#EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Infantil",Gloob 
 http://104.128.74.178:2086/streams/133_.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloobinho.jpg" group-title="Filmes",Gloobinho
+#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloobinho.jpg" group-title="Infantil",Gloobinho
 http://iptv.movie:8080/live/igor10/igor10/1515.m3u8
 
 
