@@ -7,7 +7,7 @@ http://104.128.74.178:2086/streams/259_.m3u8
 http://104.128.74.178:2086/streams/84_.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Canal Brasil
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlkyX0XwOk4c6FM6bxXyqmj2RtsrS6ANohRw&usqp=CAU" group-title="Aberto",Canal Brasil
 http://104.128.74.178:2086/streams/15_.m3u8
 
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo=".jpg" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ8nKWYwxYDznhPn5Rv8v7CFrB3mTrC7rRVQ&usqp=CAU" group-title="Aberto",RedeTv
