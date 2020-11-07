@@ -204,7 +204,7 @@ http://104.128.74.178:2086/streams/193_.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus 
+#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO+
 http://104.128.74.178:2086/streams/189_.m3u8
 
 
@@ -213,16 +213,16 @@ http://104.128.74.178:2086/streams/189_.m3u8
 http://104.128.74.178:2086/streams/191_.m3u8
 
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme
+#EXTINF:0 tvg-id="Hboxtreme.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme
 http://104.128.74.178:2086/streams/197_.m3u8
 
 
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL9pu9wyvUS3xVA768rs5NCxLWgb0EFy_k2A&usqp=CAU" group-title="Filmes",HBO MUNDI 
+#EXTINF:0 tvg-id="Hbomundi.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL9pu9wyvUS3xVA768rs5NCxLWgb0EFy_k2A&usqp=CAU" group-title="Filmes",HBO MUNDI 
 http://104.128.74.178:2086/streams/195_.m3u8
 
 
-#EXTINF:0 tvg-id="Maxprime.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop 
+#EXTINF:0 tvg-id="Hbopop.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop 
 http://104.128.74.178:2086/streams/183_.m3u8
 
 
