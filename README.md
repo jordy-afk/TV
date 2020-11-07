@@ -22,7 +22,7 @@ https://stmv.voxtvhd.com.br/istv/istv/chunklist_w1482601296.m3u8
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXknAHDqihNc-jvZNqyAwpv3tVwj_CNCGoQQ&usqp=CAU" group-title="Aberto",Record
 http://104.128.74.178:2086/streams/30_.m3u8
 
-#EXTINF:0 tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQz6dmg-XKu2DaLdChpITBonaWIayT11pRSw&usqp=CAU" group-title="Aberto",Record News
+#EXTINF:0 tvg-logo=".svg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQz6dmg-XKu2DaLdChpITBonaWIayT11pRSw&usqp=CAU" group-title="Aberto",Record News
 http://104.128.74.178:2086/streams/80_.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxGu92Y2fQhtvFSl5SAW31EBVsiXUMGl4GOw&usqp=CAU" group-title="Aberto",BAND TV
