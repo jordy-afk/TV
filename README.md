@@ -282,8 +282,11 @@ http://104.128.74.178:2086/streams/139_.m3u8
 http://104.128.74.178:2086/streams/179_.m3u8
 
 
-#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Filmes",Disney Channel 
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Infantil",Disney Channel 
 http://104.128.74.178:2086/streams/129_.m3u8
+
+#EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo="" tvg-logo="" group-title="Infantil",Disney Junior
+http://104.128.74.178:2086/streams/130_.m3u8
 
 #EXTINF:0 tvg-id="Boomeranghd.br" group-title="Infantil",Boomerang
 http://104.128.74.178:2086/streams/127_.m3u8
@@ -291,7 +294,7 @@ http://104.128.74.178:2086/streams/127_.m3u8
 #EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD 
 http://104.128.74.178:2086/streams/131_.m3u8
 
-#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="",Cartoon Network
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
 http://104.128.74.178:2086/streams/128_.m3u8
 
 #EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="",National Geographic Kids
