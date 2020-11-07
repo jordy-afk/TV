@@ -66,11 +66,11 @@ http://104.128.74.178:2086/streams/112_.m3u8
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/35/EjRj9jsXgAIBlkP.jpg/revision/latest/top-crop/width/360/height/450?cb=20201001215719&path-prefix=pt-br" group-title="Channels",Mais na Tela
 http://104.128.74.178:2086/streams/151_.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="" group-title="Channels",Food Network
+#EXTINF:0 tvg-logo=".jpg" tvg-logo="" group-title="Channels",Food Network
 http://104.128.74.178:2086/streams/111_.m3u8
 
 
-#EXTINF:0 tvg-id="game-show" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTrC6QO9Xls8ifmoAMb6vcxRdFoyS_qTSOJ9RHdxTYr_w&usqp=CAU&ec=45706913" group-title="Channels",E! Entertainment Television
 http://104.128.74.178:2086/streams/155_.m3u8
 
 #EXTINF:0 tvg-id="Bishd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/bis.jpg" group-title="Channels",BIS HD
