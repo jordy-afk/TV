@@ -384,7 +384,7 @@ http://104.128.74.178:2086/streams/56_.m3u8
 #EXTINF:0 tvg-id="Foxsportshd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU" group-title="Esporte",FOX SPORTS 2
 http://104.128.74.178:2086/streams/58_.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Filmes",ALL Sports
+#EXTINF:0 tvg-id="ext" group-title="Esporte",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://yt3.ggpht.com/a/AATXAJwZH81Bh9SZNVVACAsfxTE0u3lapHGO32276BZX=s900-c-k-c0xffffffff-no-rj-mo" group-title="Esporte",Esporte Interativo
