@@ -304,7 +304,7 @@ http://104.128.74.178:2086/streams/128_.m3u8
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
 
 
-#EXTINF:0 tvg-id="Natgeohd.br" group-title="Documemtario",National Geographic HD 
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Documentario",National Geographic HD 
 http://104.128.74.178:2086/streams/117_.m3u8
 
 #EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentario",NatGeo Wild 
@@ -355,7 +355,7 @@ http://ts.ec.cx:1080/hls1/combate.m3u8
 #EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Esporte",Combate [Alter]
 http://104.128.74.178:2086/streams/48_.m3u8
 
-#EXTINF:0 tvg-id="Premiereclubes.br" tvg-logo=".jpg" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/logo_premier-fc.jpg" group-title="Esportr",Premiere Clubes
+#EXTINF:0 tvg-id="Premiereclubes.br" tvg-logo=".jpg" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/logo_premier-fc.jpg" group-title="Esporte",Premiere Clubes
 http://104.128.74.178:2086/streams/62_.m3u8
 
 
