@@ -300,110 +300,110 @@ http://104.128.74.178:2086/streams/131_.m3u8
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
 http://104.128.74.178:2086/streams/128_.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="",National Geographic Kids
+#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil",National Geographic Kids
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
 
 
-#EXTINF:0 tvg-id="Natgeohd.br" group-title="",National Geographic HD 
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Documemtario",National Geographic HD 
 http://104.128.74.178:2086/streams/117_.m3u8
 
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="",NatGeo Wild 
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentario",NatGeo Wild 
 http://104.128.74.178:2086/streams/119_.m3u8
 
 
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="",Animal Planet 
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentario",Animal Planet 
 http://104.128.74.178:2086/streams/99_.m3u8
 
 
-#EXTINF:0 tvg-logo=".png" tvg-logo="https://www.lovenature.com.br/wp-content/uploads/2019/02/Logo_LoveNature_486x226.png" group-title="",Love Nature
+#EXTINF:0 tvg-logo=".png" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentario",Love Nature
 http://104.128.74.178:2086/streams/75_.m3u8
 
-#EXTINF:0 tvg-id="Historychannelhd.br" group-title="Filmes",History Channel
+#EXTINF:0 tvg-id="Historychannelhd.br" group-title="Documentario",History Channel
 http://104.128.74.178:2086/streams/115_.m3u8
 
-#EXTINF:0 tvg-id="H2.br" group-title="Filmes",H2 HD 
+#EXTINF:0 tvg-id="H2.br" group-title="Documentario",H2 HD 
 http://104.128.74.178:2086/streams/223_.m3u8
 
 #EXTINF:0 tvg-id="H2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBG6eI-PuuQZJnIY4vLZfEfRDx0kzYkWuz4A&usqp=CAU" group-title="",HGTV
 http://104.128.74.178:2086/streams/123_.m3u8
 
-#EXTINF:0 tvg-id="Discovery.br" group-title="Filmes",DISCOVERY CHANNEL HD 
+#EXTINF:0 tvg-id="Discovery.br" group-title="Documentario",DISCOVERY CHANNEL HD 
 http://104.128.74.178:2086/streams/103_.m3u8
 
 
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY TURBO HD 
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY TURBO HD 
 http://104.128.74.178:2086/streams/107_.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Filmes",DISCOVERY WORLD HD 
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY WORLD HD 
 http://104.128.74.178:2086/streams/108_.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-home-health.jpg" group-title="Filmes",DISCOVERY HOME HEALTH
+#EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-home-health.jpg" group-title="Documentario",DISCOVERY HOME HEALTH
 http://104.128.74.178:2086/streams/101_.m3u8
 
-#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="Filmes",Investigacao Discovery
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="Documentario",Investigacao Discovery
 http://ts.ec.cx:1080/hls1/investigacaodiscovery.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="",Discovery Theater
+#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="Documentario",Discovery Theater
 http://104.128.74.178:2086/streams/105_.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="",Discovery Science
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="Documentario",Discovery Science
 http://104.128.74.178:2086/streams/121_.m3u8
 
-#EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Filmes",Combate
+#EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Esporte",Combate
 http://ts.ec.cx:1080/hls1/combate.m3u8
 
-#EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Filmes",Combate [Alter]
+#EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Esporte",Combate [Alter]
 http://104.128.74.178:2086/streams/48_.m3u8
 
-#EXTINF:0 tvg-id="Premiereclubes.br" tvg-logo=".jpg" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/logo_premier-fc.jpg" group-title="Filmes",Premiere Clubes
+#EXTINF:0 tvg-id="Premiereclubes.br" tvg-logo=".jpg" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/logo_premier-fc.jpg" group-title="Esportr",Premiere Clubes
 http://104.128.74.178:2086/streams/62_.m3u8
 
 
-#EXTINF:0 tvg-id="Espn.br" group-title="Filmes",ESPN
+#EXTINF:0 tvg-id="Espn.br" group-title="Esporte",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 
-#EXTINF:0 tvg-id="Espn.br" group-title="Filmes",ESPN [Alter]
+#EXTINF:0 tvg-id="Espn.br" group-title="Esporte",ESPN [Alter]
 http://104.128.74.178:2086/streams/52_.m3u8
 
-#EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Filmes",ESPN 2
+#EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Esporte",ESPN 2
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
-#EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Filmes",ESPN 2 [Alter]
+#EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Esporte",ESPN 2 [Alter]
 http://104.128.74.178:2086/streams/241_.m3u8
 
-#EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Filmes",ESPN Extra
+#EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Esporte",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
-#EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Filmes",ESPN Extra [Alter]
+#EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Esporte",ESPN Extra [Alter]
 http://104.128.74.178:2086/streams/50_.m3u8
 
 #EXTINF:0 tvg-id="Foxsportshd.br" group-title="Filmes",FOX SPORTS HD
 http://104.128.74.178:2086/streams/56_.m3u8
 
-#EXTINF:0 tvg-id="Foxsportshd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU" group-title="Filmes",FOX SPORTS 2
+#EXTINF:0 tvg-id="Foxsportshd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU" group-title="Esporte",FOX SPORTS 2
 http://104.128.74.178:2086/streams/58_.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Filmes",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://yt3.ggpht.com/a/AATXAJwZH81Bh9SZNVVACAsfxTE0u3lapHGO32276BZX=s900-c-k-c0xffffffff-no-rj-mo" group-title="Filmes",Esporte Interativo
+#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://yt3.ggpht.com/a/AATXAJwZH81Bh9SZNVVACAsfxTE0u3lapHGO32276BZX=s900-c-k-c0xffffffff-no-rj-mo" group-title="Esporte",Esporte Interativo
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 
-#EXTINF:0 tvg-id="Sportv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEp5i5OsTlZbVobhxhW0VSIN7_CrNw4hUzpQ&usqp=CAU" group-title="Filmes",Sportv
+#EXTINF:0 tvg-id="Sportv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEp5i5OsTlZbVobhxhW0VSIN7_CrNw4hUzpQ&usqp=CAU" group-title="Esporte",Sportv
 http://104.128.74.178:2086/streams/70_.m3u8
 
-#EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMGHslOFQhAbyYlknBEucBtU4NBKobk7o5Dg&usqp=CAU" group-title="Filmes",Sportv 2
+#EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMGHslOFQhAbyYlknBEucBtU4NBKobk7o5Dg&usqp=CAU" group-title="Esporte",Sportv 2
 http://104.128.74.178:2086/streams/72_.m3u8
 
-#EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://futebolplayhd.com/imagens-futebol/8f1245764548baf0b8c9c51e4bf2e35e.jpg" group-title="Filmes",Sportv 3
+#EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://futebolplayhd.com/imagens-futebol/8f1245764548baf0b8c9c51e4bf2e35e.jpg" group-title="Esporte",Sportv 3
 http://104.128.74.178:2086/streams/74_.m3u8
 
-#EXTINF:0 tvg-id="Bandsports.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTraElXrtJFZbsFVLBl9MR4TzuALlU4hAv5uQ&usqp=CAU" group-title="Filmes",BAND SPORTS
+#EXTINF:0 tvg-id="Bandsports.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTraElXrtJFZbsFVLBl9MR4TzuALlU4hAv5uQ&usqp=CAU" group-title="Esporte",BAND SPORTS
 http://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1391457496.m3u8
 
-#EXTINF:0 tvg-id="Fishtv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVPnrNxqRckLKzn1HSqWdx0xtOqlDZGpDSYQ&usqp=CAU" group-title="Filmes",FISH TV
+#EXTINF:0 tvg-id="Fishtv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVPnrNxqRckLKzn1HSqWdx0xtOqlDZGpDSYQ&usqp=CAU" group-title="Esporte",FISH TV
 https://origin-02.nxplay.com.br/FISH_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="Fishtv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVPnrNxqRckLKzn1HSqWdx0xtOqlDZGpDSYQ&usqp=CAU" group-title="Filmes",FISH TV [Alter]
+#EXTINF:0 tvg-id="Fishtv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVPnrNxqRckLKzn1HSqWdx0xtOqlDZGpDSYQ&usqp=CAU" group-title="Esporte",FISH TV [Alter]
 http://104.128.74.178:2086/streams/109_.m3u8
