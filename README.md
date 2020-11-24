@@ -300,8 +300,8 @@ http://104.128.74.178:2086/streams/131_.m3u8
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
 http://104.128.74.178:2086/streams/128_.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil",National Geographic Kids
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/350.m3u8
+#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil",Nat Geo Kids
+http://104.128.74.178:2086/streams/134_.m3u8
 
 
 #EXTINF:0 tvg-id="Natgeohd.br" group-title="Documentario",National Geographic HD 
