@@ -269,7 +269,7 @@ http://iptv.movie:8080/live/igor10/igor10/1515.m3u8
 #EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nickelodeon 
 http://104.128.74.178:2086/streams/135_.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtaXT9beVDdnULlXDBcT9szQh7fx7r_lztvA&usqp=CAU" group-title="Infantil",Zoo Moo
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtaXT9beVDdnULlXDBcT9szQh7fx7r_lztvA&usqp=CAU" group-title="Infantil",ZooMoo
 http://104.128.74.178:2086/streams/137_.m3u8
 
 
