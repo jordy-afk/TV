@@ -300,7 +300,7 @@ http://104.128.74.178:2086/streams/131_.m3u8
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
 http://104.128.74.178:2086/streams/128_.m3u8
 
-#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil",Nat Geo Kids
+#EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/LogoNG.png/revision/latest?cb=20170708015823" group-title="Infantil",Nat Geo Kids
 http://104.128.74.178:2086/streams/134_.m3u8
 
 
