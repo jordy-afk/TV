@@ -22,7 +22,7 @@
     <channel update="i" site="clarotv.com.br" site_id="86" xmltv_id="SBT">SBT</channel>
     <channel update="i" site="clarotv.com.br" site_id="107" xmltv_id="Globo">Globo</channel>
     <channel update="i" site="clarotv.com.br" site_id="103" xmltv_id="TV Cultura">TV Cultura</channel>
-    <channel update="i" site="clarotv.com.br" site_id="78" xmltv_id="Polishop">Polishop</channel>
+    <channel update="i" site="clarotv.com.br" site_id="78" xmltv_id="POLISHOP">Polishop</channel>
     <channel update="i" site="clarotv.com.br" site_id="200" xmltv_id="OFF">OFF</channel>
     <channel update="i" site="clarotv.com.br" site_id="186" xmltv_id="Sportv 3">Sportv 3</channel>
     <channel update="i" site="clarotv.com.br" site_id="94" xmltv_id="Sportv 2">Sportv 2</channel>
