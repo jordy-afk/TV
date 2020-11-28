@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.26 -- Jan van Straaten" site="clarotv.com.br">
   <channels>
+    <Channel update="i" site="www.lovenature.com.br" site_id="" xmltv="Love Nature">Love Nature</channel>
     <channel update="i" site="clarotv.com.br" site_id="108" xmltv_id="TV Justiça">TV Justiça</channel>
     <channel update="i" site="clarotv.com.br" site_id="110" xmltv_id="TV Senado">TV Senado</channel>
     <channel update="i" site="clarotv.com.br" site_id="104" xmltv_id="TV Câmara">TV Câmara</channel>
