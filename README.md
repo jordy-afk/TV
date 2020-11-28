@@ -321,7 +321,7 @@ http://104.128.74.178:2086/streams/75_.m3u8
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Documentario",History Channel
 http://104.128.74.178:2086/streams/115_.m3u8
 
-#EXTINF:0 tvg-id="H2.br" group-title="Documentario",H2 HD 
+#EXTINF:0 tvg-id="H2.br" group-title="Documentario",H2
 http://104.128.74.178:2086/streams/223_.m3u8
 
 #EXTINF:0 tvg-id="H2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBG6eI-PuuQZJnIY4vLZfEfRDx0kzYkWuz4A&usqp=CAU" group-title="",HGTV
