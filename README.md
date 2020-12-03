@@ -204,7 +204,7 @@ http://104.128.74.178:2086/streams/193_.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus
+#EXTINF:0 tvg-id="Hboplushd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/hbo-plus.jpg" group-title="Filmes",HBO Plus
 http://104.128.74.178:2086/streams/189_.m3u8
 
 
