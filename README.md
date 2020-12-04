@@ -213,7 +213,7 @@ http://104.128.74.178:2086/streams/189_.m3u8
 http://104.128.74.178:2086/streams/191_.m3u8
 
 
-#EXTINF:0 tvg-id="Hboxtreme.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqFHARjfg-JkbfnbmkQtpdWQvZ1qEesQEnJA&usqp=CAU" group-title="Filmes",HBO Xtreme
+#EXTINF:0 tvg-id="Hboxtreme.br" tvg-logo=".png" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png" group-title="Filmes",HBO Xtreme
 http://104.128.74.178:2086/streams/197_.m3u8
 
 
