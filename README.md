@@ -340,7 +340,7 @@ http://104.128.74.178:2086/streams/108_.m3u8
 #EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".png" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentario",DISCOVERY HOME HEALTH
 http://104.128.74.178:2086/streams/101_.m3u8
 
-#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="Documentario",Investigacao Discovery
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Documentario",Investigacao Discovery
 http://ts.ec.cx:1080/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="Documentario",Discovery Theater
