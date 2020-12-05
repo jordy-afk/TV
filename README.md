@@ -337,7 +337,7 @@ http://104.128.74.178:2086/streams/107_.m3u8
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY WORLD HD 
 http://104.128.74.178:2086/streams/108_.m3u8
 
-#EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-home-health.jpg" group-title="Documentario",DISCOVERY HOME HEALTH
+#EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".png" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentario",DISCOVERY HOME HEALTH
 http://104.128.74.178:2086/streams/101_.m3u8
 
 #EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/id-investigacao-discovery.jpg" group-title="Documentario",Investigacao Discovery
