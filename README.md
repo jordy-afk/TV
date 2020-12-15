@@ -328,8 +328,7 @@ http://104.128.74.178:2086/streams/223_.m3u8
 http://104.128.74.178:2086/streams/123_.m3u8
 
 #EXTINF:0 tvg-id="Discovery.br" group-title="Documentario",DISCOVERY CHANNEL HD 
-http://104.128.74.178:2086/streams/103_.m3u8
-
+http://172.96.172.111:2095/streams/102_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY TURBO HD 
 http://104.128.74.178:2086/streams/107_.m3u8
