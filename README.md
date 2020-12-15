@@ -129,6 +129,10 @@ http://172.96.172.111:2095/streams/149_.m3u8
 http://172.96.172.111:2095/streams/141_.m3u8
 
 
+#EXTINF:0 tvg-id="" tvg-logo="" tvg-logo="" group-title="Channels",Cine Sky
+http://gamexit.in:8080/t56YSDGGUQr4fn/IfENrY40EBHC/454
+
+
 #EXTINF:0 tvg-id="CineMAX.ro" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png" group-title="Filmes",Cinemax
 http://172.96.172.111:2095/streams/242_.m3u8
 
