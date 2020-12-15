@@ -217,7 +217,7 @@ http://172.96.172.111:2095/streams/189_.m3u8
 http://172.96.172.111:2095/streams/191_.m3u8
 
 
-#EXTINF:0 tvg-id="Hboxtreme.br" tvg-logo=".png" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-xtreme.png" group-title="Filmes",HBO Xtreme
+#EXTINF:0 tvg-id="Hboxtreme.br" tvg-logo=".png" tvg-logo="https://forounivers.com/gallery/image/1619-pride-tv/?browse=1&lightbox=1" group-title="Filmes",HBO Xtreme
 http://172.96.172.111:2095/streams/197_.m3u8
 
 
