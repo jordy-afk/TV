@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpeg" tvg-logo="https://1.bp.blogspot.com/-1hvHdTHdwqY/X6g9f0k8tOI/AAAAAAAAB4Y/4L-T8w5Rfn4WvXiE1bYcP3rVuEbPm7CPQCLcBGAsYHQ/s450/globo.jpeg" group-title="Aberto",Globo SP
-http://104.128.74.178:2086/streams/259_.m3u8
+http://172.96.172.111:2095/streams/259_.m3u8
 
 #EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWdjciQvOmYT1t5z4TkR3Anu2T8Fa3J4fwcQ&usqp=CAU" group-title="Aberto",Globo News
 http://104.128.74.178:2086/streams/84_.m3u8
