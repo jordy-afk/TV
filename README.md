@@ -11,7 +11,7 @@ http://172.96.172.111:2095/streams/84_.m3u8
 http://172.96.172.111:2095/streams/15_.m3u8
 
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo=".jpg" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ8nKWYwxYDznhPn5Rv8v7CFrB3mTrC7rRVQ&usqp=CAU" group-title="Aberto",RedeTv
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
+http://172.96.172.111:2095/streams/34_.m3u8
 
 #EXTINF:0 tvg-id="Sbt.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="Aberto",SBT
 http://172.96.172.111:2095/streams/1_.m3u8
