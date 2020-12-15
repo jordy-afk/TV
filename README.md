@@ -4,29 +4,29 @@
 http://172.96.172.111:2095/streams/259_.m3u8
 
 #EXTINF:0 tvg-id="Globosp.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWdjciQvOmYT1t5z4TkR3Anu2T8Fa3J4fwcQ&usqp=CAU" group-title="Aberto",Globo News
-http://104.128.74.178:2086/streams/84_.m3u8
+http://172.96.172.111:2095/streams/84_.m3u8
 
 
 #EXTINF:0 tvg-logo=".svg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlkyX0XwOk4c6FM6bxXyqmj2RtsrS6ANohRw&usqp=CAU" group-title="Aberto",Canal Brasil
-http://104.128.74.178:2086/streams/15_.m3u8
+http://172.96.172.111:2095/streams/15_.m3u8
 
 #EXTINF:0 tvg-id="Redetv.br" tvg-logo=".jpg" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJ8nKWYwxYDznhPn5Rv8v7CFrB3mTrC7rRVQ&usqp=CAU" group-title="Aberto",RedeTv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-id="Sbt.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="Aberto",SBT
-http://104.128.74.178:2086/streams/1_.m3u8
+http://172.96.172.111:2095/streams/1_.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://lh3.googleusercontent.com/dHoga7x7tSuPovBK-HHl8Ww_bWTWNt_TAh2bPfXTNLCJVczqNk_upk2yRUJAsm90laxj" group-title="Aberto",ISTV
 https://stmv.voxtvhd.com.br/istv/istv/chunklist_w1482601296.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXknAHDqihNc-jvZNqyAwpv3tVwj_CNCGoQQ&usqp=CAU" group-title="Aberto",Record
-http://104.128.74.178:2086/streams/30_.m3u8
+http://172.96.172.111:2095/streams/30_.m3u8
 
 #EXTINF:0 tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQzplpegBRQXSp4UEOf5ZE1xoJas8Yfffs6Jw&usqp=CAU" group-title="Aberto",Record News
-http://104.128.74.178:2086/streams/80_.m3u8
+http://172.96.172.111:2095/streams/80_.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxGu92Y2fQhtvFSl5SAW31EBVsiXUMGl4GOw&usqp=CAU" group-title="Aberto",BAND TV
-http://104.128.74.178:2086/streams/257_.m3u8
+http://172.96.172.111:2095/streams/257_.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="Aberto",BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1543086393.m3u8
@@ -36,7 +36,7 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1543086393.m3u8
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Aberto",CNN Brasil [Alter]
-http://104.128.74.178:2086/streams/240_.m3u8
+http://172.96.172.111:2095/streams/240_.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Aberto",TV DIÁRIO
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZdg6q7ek2hMyhDeZa2tJ_0w)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
@@ -48,20 +48,20 @@ https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSckdizUIJi1ycvZwv_1FlqAj-h_w-3tp__Yg&usqp=CAU" group-title="Aberto",Tv Gazeta
-http://104.128.74.178:2086/streams/221_.m3u8
+http://172.96.172.111:2095/streams/221_.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQmcjS-rqvqI9YD39YzV2TaXqKWfH3QR1Zg4w&usqp=CAU" group-title="Aberto",Futura 
-http://104.128.74.178:2086/streams/244_.m3u8
+http://172.96.172.111:2095/streams/244_.m3u8
 
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/mais-globosat.jpg" group-title="Channels",Mais Globosat
 http://ts.ec.cx:1080/hls1/maisbobosat.m3u8
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6_5hNbJ6gQYUsOvmkOXv7XA2YK1Duo0g73Q&usqp=CAU" group-title="Channels",Curta
-http://104.128.74.178:2086/streams/20_.m3u8
+http://172.96.172.111:2095/streams/20_.m3u8
 
 #EXTINF:0 tvg-logo=".png" tvg-logo="https://www.getmore.com.br/images/polishop2.png" group-title="",Polishop
-http://104.128.74.178:2086/streams/112_.m3u8
+http://172.96.172.111:2095/streams/112_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/3/35/EjRj9jsXgAIBlkP.jpg/revision/latest/top-crop/width/360/height/450?cb=20201001215719&path-prefix=pt-br" group-title="Channels",Mais na Tela
 http://104.128.74.178:2086/streams/151_.m3u8
