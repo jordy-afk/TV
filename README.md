@@ -129,7 +129,7 @@ http://172.96.172.111:2095/streams/149_.m3u8
 http://172.96.172.111:2095/streams/141_.m3u8
 
 
-#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="Filmes",Cine Sky
+#EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="FILMES",Cine Sky
 http://gamexit.in:8080/t56YSDGGUQr4fn/IfENrY40EBHC/454
 
 
