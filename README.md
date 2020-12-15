@@ -227,139 +227,139 @@ http://172.96.172.111:2095/streams/195_.m3u8
 
 
 #EXTINF:0 tvg-id="Hbopop.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTianPHysFEWjFjlsFZ9fAc4GJI9LQHimBLuA&usqp=CAU" group-title="Filmes",HBO Pop 
-http://104.128.74.178:2086/streams/183_.m3u8
+http://172.96.172.111:2095/streams/183_.m3u8
 
 
 
 #EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT
-http://104.128.74.178:2086/streams/5_.m3u8
+http://172.96.172.111:2095/streams/5_.m3u8
 
 
 #EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series 
-http://104.128.74.178:2086/streams/6_.m3u8
+http://172.96.172.111:2095/streams/6_.m3u8
 
 
 #EXTINF:0 tvg-id="Fxhd.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fx.jpg" group-title="Filmes",FX
-http://104.128.74.178:2086/streams/113_.m3u8
+http://172.96.172.111:2095/streams/113_.m3u8
 
 
 #EXTINF:0 tvg-id="Foxhd.br" group-title="Filmes",FOX
-http://104.128.74.178:2086/streams/161_.m3u8
+http://172.96.172.111:2095/streams/161_.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-1.jpg" group-title="Filmes",Fox Premium 1 HD
-http://104.128.74.178:2086/streams/165_.m3u8
+http://172.96.172.111:2095/streams/165_.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/fox-premium-2.jpg" group-title="Filmes",Fox Premium 2 HD
-http://104.128.74.178:2086/streams/167_.m3u8
+http://172.96.172.111:2095/streams/167_.m3u8
 
 
 #EXTINF:0 tvg-id="fox-life-hd" group-title="Filmes",Fox Life
-http://104.128.74.178:2086/streams/163_.m3u8
+http://172.96.172.111:2095/streams/163_.m3u8
 
 
 #EXTINF:0 tvg-id="fox-life-hd" tvg-logo=".png" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="Infantil",Tooncast
-http://104.128.74.178:2086/streams/222_.m3u8
+http://172.96.172.111:2095/streams/222_.m3u8
 
 
 #EXTINF:0 tvg-id="Gloob.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloob.jpg" group-title="Infantil",Gloob 
-http://104.128.74.178:2086/streams/133_.m3u8
+http://172.96.172.111:2095/streams/133_.m3u8
 
 #EXTINF:0 tvg-id="ext" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/gloobinho.jpg" group-title="Infantil",Gloobinho
 http://iptv.movie:8080/live/igor10/igor10/1515.m3u8
 
 
 #EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nickelodeon 
-http://104.128.74.178:2086/streams/135_.m3u8
+http://172.96.172.111:2095/streams/135_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtaXT9beVDdnULlXDBcT9szQh7fx7r_lztvA&usqp=CAU" group-title="Infantil",ZooMoo
-http://104.128.74.178:2086/streams/137_.m3u8
+http://172.96.172.111:2095/streams/137_.m3u8
 
 
 #EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Infantil",Nick Jr
-http://104.128.74.178:2086/streams/139_.m3u8
+http://172.96.172.111:2095/streams/139_.m3u8
 
 
 
 #EXTINF:0 tvg-id="Warnerhd.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Infantil",Warner Channel 
-http://104.128.74.178:2086/streams/179_.m3u8
+http://172.96.172.111:2095/streams/179_.m3u8
 
 
 #EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Infantil",Disney Channel 
-http://104.128.74.178:2086/streams/129_.m3u8
+http://172.96.172.111:2095/streams/129_.m3u8
 
 #EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo="" tvg-logo="" group-title="Infantil",Disney Junior
-http://104.128.74.178:2086/streams/130_.m3u8
+http://172.96.172.111:2095/streams/130_.m3u8
 
 #EXTINF:0 tvg-id="Disneychannelhd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGHjFPycrj6ZPnB7mYT1AYvcWBlY378skMfg&usqp=CAU" group-title="Infantil",Discovery Kids
-http://104.128.74.178:2086/streams/138_.m3u8
+http://172.96.172.111:2095/streams/138_.m3u8
 
 #EXTINF:0 tvg-id="Boomeranghd.br" group-title="Infantil",Boomerang
-http://104.128.74.178:2086/streams/127_.m3u8
+http://172.96.172.111:2095/streams/127_.m3u8
 
 #EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD 
-http://104.128.74.178:2086/streams/131_.m3u8
+http://172.96.172.111:2095/streams/131_.m3u8
 
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
-http://104.128.74.178:2086/streams/128_.m3u8
+http://172.96.172.111:2095/streams/128_.m3u8
 
 #EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/LogoNG.png/revision/latest?cb=20170708015823" group-title="Infantil",Nat Geo Kids
-http://104.128.74.178:2086/streams/134_.m3u8
+http://172.96.172.111:2095/streams/134_.m3u8
 
 
 #EXTINF:0 tvg-id="Natgeohd.br" group-title="Documentario",National Geographic HD 
-http://104.128.74.178:2086/streams/117_.m3u8
+http://172.96.172.111:2095/streams/117_.m3u8
 
 #EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentario",NatGeo Wild 
-http://104.128.74.178:2086/streams/119_.m3u8
+http://172.96.172.111:2095/streams/119_.m3u8
 
 
 #EXTINF:0 tvg-id="Animalplanet.br" group-title="Documentario",Animal Planet 
-http://104.128.74.178:2086/streams/99_.m3u8
+http://172.96.172.111:2095/streams/99_.m3u8
 
 
 #EXTINF:0 tvg-logo=".png" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentario",Love Nature
-http://104.128.74.178:2086/streams/75_.m3u8
+http://172.96.172.111:2095/streams/75_.m3u8
 
 #EXTINF:0 tvg-id="Historychannelhd.br" group-title="Documentario",History Channel
-http://104.128.74.178:2086/streams/115_.m3u8
+http://172.96.172.111:2095/streams/115_.m3u8
 
 #EXTINF: tvg-id="H2.br" group-title="Documentario",H2 [Alter]
-http://104.128.74.178:2086/streams/223_.m3u8
+http://172.96.172.111:2095/streams/223_.m3u8
 
 #EXTINF:0 tvg-id="H2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSBG6eI-PuuQZJnIY4vLZfEfRDx0kzYkWuz4A&usqp=CAU" group-title="",HGTV
-http://104.128.74.178:2086/streams/123_.m3u8
+http://172.96.172.111:2095/streams/123_.m3u8
 
 #EXTINF:0 tvg-id="Discovery.br" group-title="Documentario",DISCOVERY CHANNEL HD 
 http://172.96.172.111:2095/streams/102_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY TURBO HD 
-http://104.128.74.178:2086/streams/107_.m3u8
+http://172.96.172.111:2095/streams/107_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" group-title="Documentario",DISCOVERY WORLD HD 
-http://104.128.74.178:2086/streams/108_.m3u8
+http://172.96.172.111:2095/streams/108_.m3u8
 
 #EXTINF:0 tvg-id="Discturbohd.br" tvg-logo=".png" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Documentario",DISCOVERY HOME HEALTH
-http://104.128.74.178:2086/streams/101_.m3u8
+http://172.96.172.111:2095/streams/101_.m3u8
 
 #EXTINF:0 tvg-id="Investigacaodiscoveryid.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Documentario",Investigacao Discovery
 http://ts.ec.cx:1080/hls1/investigacaodiscovery.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".png" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" group-title="Documentario",Discovery Theater
-http://104.128.74.178:2086/streams/105_.m3u8
+http://172.96.172.111:2095/streams/105_.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="Documentario",Discovery Science
-http://104.128.74.178:2086/streams/121_.m3u8
+http://172.96.172.111:2095/streams/121_.m3u8
 
 #EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Esporte",Combate
 http://ts.ec.cx:1080/hls1/combate.m3u8
 
 #EXTINF:0 tvg-id="Combate.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/combate.jpg" group-title="Esporte",Combate [Alter]
-http://104.128.74.178:2086/streams/48_.m3u8
+http://172.96.172.111:2095/streams/48_.m3u8
 
 #EXTINF:0 tvg-id="Premiereclubes.br" tvg-logo=".jpg" tvg-logo="https://www.gvt.com.br/midiaportal/tv/_images/gc/canais/logo_premier-fc.jpg" group-title="Esporte",Premiere Clubes
-http://104.128.74.178:2086/streams/62_.m3u8
+http://172.96.172.111:2095/streams/62_.m3u8
 
 
 #EXTINF:0 tvg-id="Espn.br" group-title="Esporte",ESPN
@@ -367,25 +367,25 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
 
 
 #EXTINF:0 tvg-id="Espn.br" group-title="Esporte",ESPN [Alter]
-http://104.128.74.178:2086/streams/52_.m3u8
+http://172.96.172.111:2095/streams/52_.m3u8
 
 #EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Esporte",ESPN 2
 http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 
 #EXTINF:0 tvg-id="ESPN2.mx" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOF3c6GQDC-dq0dHC8jykVd-FKI61W7-6Ycg&usqp=CAU" group-title="Esporte",ESPN 2 [Alter]
-http://104.128.74.178:2086/streams/241_.m3u8
+http://172.96.172.111:2095/streams/241_.m3u8
 
 #EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Esporte",ESPN Extra
 http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 
 #EXTINF:0 tvg-id="Espnextra.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGI4pVhs4i3NDt9VPLQwXHmRBJe8j_ySGn5g&usqp=CAU" group-title="Esporte",ESPN Extra [Alter]
-http://104.128.74.178:2086/streams/50_.m3u8
+http://172.96.172.111:2095/streams/50_.m3u8
 
 #EXTINF:0 tvg-id="Foxsportshd.br" group-title="Filmes",FOX SPORTS HD
-http://104.128.74.178:2086/streams/56_.m3u8
+http://172.96.172.111:2095/streams/56_.m3u8
 
 #EXTINF:0 tvg-id="Foxsportshd.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSWF8wrL8pZQn2dWwGg6dnY6yMJDzmwLAQo8w&usqp=CAU" group-title="Esporte",FOX SPORTS 2
-http://104.128.74.178:2086/streams/58_.m3u8
+http://172.96.172.111:2095/streams/58_.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Esporte",ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
@@ -394,13 +394,13 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
 
 #EXTINF:0 tvg-id="Sportv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEp5i5OsTlZbVobhxhW0VSIN7_CrNw4hUzpQ&usqp=CAU" group-title="Esporte",Sportv
-http://104.128.74.178:2086/streams/70_.m3u8
+http://172.96.172.111:2095/streams/70_.m3u8
 
 #EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMGHslOFQhAbyYlknBEucBtU4NBKobk7o5Dg&usqp=CAU" group-title="Esporte",Sportv 2
-http://104.128.74.178:2086/streams/72_.m3u8
+http://172.96.172.111:2095/streams/72_.m3u8
 
 #EXTINF:0 tvg-id="Sportv2.br" tvg-logo=".jpg" tvg-logo="https://futebolplayhd.com/imagens-futebol/8f1245764548baf0b8c9c51e4bf2e35e.jpg" group-title="Esporte",Sportv 3
-http://104.128.74.178:2086/streams/74_.m3u8
+http://172.96.172.111:2095/streams/74_.m3u8
 
 #EXTINF:0 tvg-id="Bandsports.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTraElXrtJFZbsFVLBl9MR4TzuALlU4hAv5uQ&usqp=CAU" group-title="Esporte",BAND SPORTS
 http://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1391457496.m3u8
@@ -409,4 +409,4 @@ http://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1391457496.m3u8
 https://origin-02.nxplay.com.br/FISH_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="Fishtv.br" tvg-logo=".jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVPnrNxqRckLKzn1HSqWdx0xtOqlDZGpDSYQ&usqp=CAU" group-title="Esporte",FISH TV [Alter]
-http://104.128.74.178:2086/streams/109_.m3u8
+http://172.96.172.111:2095/streams/109_.m3u8
