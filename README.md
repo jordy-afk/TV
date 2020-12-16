@@ -170,6 +170,9 @@ http://172.96.172.111:2095/streams/181_.m3u8
 #EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",A&E 
 http://172.96.172.111:2095/streams/157_.m3u8
 
+#EXTINF:0 tvg-id="Axnhd.br" group-title="Filmes",A&E [Alther]
+https://live.netcanais.com/AEEHD/video.m3u8
+
 
 #EXTINF:0 tvg-id="Sony.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/canal-sony.jpg" group-title="Filmes",Canal Sony 
 http://172.96.172.111:2095/streams/159_.m3u8
