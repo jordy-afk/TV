@@ -232,7 +232,7 @@ http://172.96.172.111:2095/streams/183_.m3u8
 
 
 #EXTINF:0 tvg-id="Tnthd.br" group-title="Filmes",TNT
-http://172.96.172.111:2095/streams/5_.m3u8
+http://gamexit.in:8080/yNXsdpSpAk0nk5/FiE1hLcxHF3A/301
 
 
 #EXTINF:0 tvg-id="TNTSerie.br" tvg-logo=".jpg" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tnt-series.jpg" group-title="Filmes",TNT Series 
