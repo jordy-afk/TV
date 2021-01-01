@@ -308,7 +308,7 @@ http://172.96.172.111:2095/streams/127_.m3u8
 http://172.96.172.111:2095/streams/131_.m3u8
 
 #EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Infantil",Cartoon Network
-http://172.96.172.111:2095/streams/128_.m3u8
+http://gamexit.in:8080/jCI53tnFs0G82I/BdApO5NAdWKX/90
 
 #EXTINF:0 tvg-id="Natgeohd.br" tvg-logo=".png" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/LogoNG.png/revision/latest?cb=20170708015823" group-title="Infantil",Nat Geo Kids
 http://172.96.172.111:2095/streams/134_.m3u8
