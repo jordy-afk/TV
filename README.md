@@ -14,7 +14,7 @@ http://172.96.172.111:2095/streams/15_.m3u8
 http://172.96.172.111:2095/streams/34_.m3u8
 
 #EXTINF:0 tvg-id="Sbt.br" tvg-logo=".png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2u5gNibHrlCwIiZ_vcsBX63Q-PPiPe8KNNg&usqp=CAU" group-title="Aberto",SBT
-http://172.96.172.111:2095/streams/1_.m3u8
+http://gamexit.in:8080/jCI53tnFs0G82I/BdApO5NAdWKX/608
 
 #EXTINF:0 tvg-logo=".jpg" tvg-logo="https://lh3.googleusercontent.com/dHoga7x7tSuPovBK-HHl8Ww_bWTWNt_TAh2bPfXTNLCJVczqNk_upk2yRUJAsm90laxj" group-title="Aberto",ISTV
 https://stmv.voxtvhd.com.br/istv/istv/chunklist_w1482601296.m3u8
