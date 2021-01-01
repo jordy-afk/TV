@@ -82,6 +82,9 @@ http://ts.ec.cx:1080/hls1/tcm.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="FILME",CINE PIPOCA
 http://gamexit.in:8080/jCI53tnFs0G82I/BdApO5NAdWKX/99
 
+#EXTINF:0 tvg-id="" tvg-logo=".jpg" tvg-logo="" group-title="FILME",CINE ACTION HD
+http://gamexit.in:8080/jCI53tnFs0G82I/BdApO5NAdWKX/96
+
 
 #EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC
 http://172.96.172.111:2095/streams/3_.m3u8
