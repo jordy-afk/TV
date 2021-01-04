@@ -120,7 +120,7 @@ http://172.96.172.111:2095/streams/60_.m3u8
 
 
 #EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva 
-http://172.96.172.111:2095/streams/153_.m3u8
+http://95.141.41.137:8081/live/viva/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjEgMzo1NDoyMyBQTSZoYXNoX3ZhbHVlPU1Oci9XeXVjMUdLZUV5UzBGV2Z2ckE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 #EXTINF:0 tvg-id="Multishow.br" tvg-logo=".png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Multishow_logo_red_2012.svg/2260px-Multishow_logo_red_2012.svg.png" group-title="Channels",Multishow 
