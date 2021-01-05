@@ -1,0 +1,28 @@
+<html>
+ <head>
+  <style>
+th, td {
+    border-bottom: 1px solid #ddd;
+	padding:5px 5px;
+	color:#666666;
+}
+a{text-decoration:none; color:#000000;}
+a:hover{color:#FFCC00;}
+</style> 
+ </head>
+ <body bgcolor="#FFFFFF">
+  <table width="100%" border="0" cellpadding="1" cellspacing=""> 
+   <tbody>
+    <tr> 
+     <td height="1" colspan="" valign="center">
+      <strong style="color:#3399CC; font-size:40px;">JTV2</strong>
+     </td> 
+     </tr> 
+    <tr> 
+      </form> 
+      <a href="http://95.141.41.137:8081/live/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjEgMTozODoyOCBQTSZoYXNoX3ZhbHVlPWdSVlpQZVhSMjViRmlyZkJ4RllnZVE9PSZ2YWxpZG1pbnV0ZXM9MjA=">
+       <img src="http://www.futebolaovivo.cloud/player/2.png" width="200" height="100">
+      </a> 
+  <!-- Histats.com  END  -->
+ </body>
+</html>
