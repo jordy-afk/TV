@@ -315,7 +315,10 @@ http://172.96.172.111:2095/streams/134_.m3u8
 
 
 #EXTINF:0 tvg-id="Natgeohd.br" group-title="Documentario",National Geographic HD 
-http://172.96.172.111:2095/streams/117_.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun:443/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=jLFYswVIklBoYI_j5DJ6VA&3U1G7qaTxrPbalZnEx=1610008451
+
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Documentario",National Geographic [Alter]
+https://d21oh4cmxy9u2t.cloudfront.net:443/hls1/natgeo-32866.m3u8
 
 #EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Documentario",NatGeo Wild 
 http://172.96.172.111:2095/streams/119_.m3u8
