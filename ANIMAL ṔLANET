@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html> <head><title>HTML Backgorund Color</title>
+   </head>
+   <body style="background-color:red;">
+      <FONT COLOR="#rrggbb"><FONT SIZE=2><h1>Animal Planet</h1></FONT><head>
+  <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
+
+  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
+</head>
+
+<body>
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    autoplay="true"
+    preload="auto"
+    width="964"
+    height="720"
+    poster="https://1.bp.blogspot.com/-eb_MnOvQrY8/YLlAFpFpGXI/AAAAAAAAD2Q/OXLZmmonifkJ-_USUuSaotbSbkSYFKfygCLcBGAsYHQ/s293/download.png"
+    data-setup="{}">
+    <source src="http://diretogo.com/live/pedroluisoc/99726991/116.m3u8" type="application/x-mpegURL">
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a
+      web browser that
+      <a href="https://videojs.com/html5-video-support/" target="_blank"
+        >supports HTML5 video</a
+      >
+    </p>
+  </video>
+
+  <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script><div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-eb_MnOvQrY8/YLlAFpFpGXI/AAAAAAAAD2Q/OXLZmmonifkJ-_USUuSaotbSbkSYFKfygCLcBGAsYHQ/s293/download.png" style="display: block; padding: 1em 0; text-align: center; clear: left; float: left;"><img alt="" border="0" width="200" data-original-height="172" data-original-width="293" src="https://1.bp.blogspot.com/-eb_MnOvQrY8/YLlAFpFpGXI/AAAAAAAAD2Q/OXLZmmonifkJ-_USUuSaotbSbkSYFKfygCLcBGAsYHQ/s200/download.png"/></a></div><FONT SIZE=5>
+<p>Sinopse:</p><FONT SIZE=5>No Animal Planet humanos e animais se conectam. Aqui, você poderá conhecer a realidade da vida selvagem ou dos animais domésticos. É imperdível!.<FONT></FONT></body></html>
+</body></html>
