@@ -146,4 +146,5 @@ http://diretogo.com/live/pedroluisoc/99726991/5043.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",HBO Extreme HD
 http://diretogo.com/live/pedroluisoc/99726991/4828.m3u8
 
-
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",COMEDY CENTRAL
+http://diretogo.com/live/pedroluisoc/99726991/2861.ts
