@@ -27,5 +27,7 @@ http://103.195.103.31:2086/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",WARNER CHANNEL
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",COMEDY CENTRAL
+https://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8
 
 
