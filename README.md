@@ -40,4 +40,7 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",FX
 http://103.195.103.31:2086/streams/112_.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",TNT
+http://103.195.103.31:2086/streams/5_.m3u8
+
 
