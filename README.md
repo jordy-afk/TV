@@ -50,7 +50,7 @@ http://103.195.103.31:2086/streams/112_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",TNT
 http://103.195.103.31:2086/streams/5_.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",TNT
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",NICKLODEON
 https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
 
 
