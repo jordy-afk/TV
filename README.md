@@ -54,7 +54,7 @@ http://103.195.103.31:2086/streams/5_.m3u8
 https://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",NICK JR
-https:\/\/d1wwtskvr1r98k.cloudfront.net\/629363a30ff040d5adaafc49ee84f17c\/index_2.m3u8
+https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m3u8
 
 
 
