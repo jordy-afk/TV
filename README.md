@@ -42,8 +42,6 @@ http://103.195.103.31:2086/streams/3_.m3u8
 http://103.195.103.31:2086/streams/7_.m3u8
 
 
-http://95.141.37.245:8081/loadbalance/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDU6MzU6MjYgQU0maGFzaF92YWx1ZT1MV3phRTdkUnpQR0J6bFhpODAyK1FBPT0mdmFsaWRtaW51dGVzPTIw
-
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",WARNER CHANNEL
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
 
@@ -66,6 +64,9 @@ http://103.195.103.31:2086/streams/5_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL 
 http://95.141.37.245:8081/loadbalance/discovery/chunks.m3u8?nimblesessionid=4652738&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjI4OjEzIEFNJmhhc2hfdmFsdWU9Y3dOaXpjYjIza3QxTzI5Ky81NFQ5Zz09JnZhbGlkbWludXRlcz0yMA==
 
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",ID DISCOVERY
+http://95.141.37.245:8081/loadbalance/discoveryid/chunks.m3u8?nimblesessionid=4652796&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjMwOjM4IEFNJmhhc2hfdmFsdWU9NmVwZkU3NVNXaWVucFQrWjdoaXI0UT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",DISCOVERY H&H
 http://95.141.37.245:8081/loadbalance/discoveryhome/chunks.m3u8?nimblesessionid=4652557&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjIwOjAxIEFNJmhhc2hfdmFsdWU9aHVXWDZXUnNZdVhSbWhUaHhvcHAvdz09JnZhbGlkbWludXRlcz0yMA==
