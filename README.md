@@ -59,5 +59,8 @@ https://d1wwtskvr1r98k.cloudfront.net/629363a30ff040d5adaafc49ee84f17c/index_2.m
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",MTV
 https://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index_2.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",PARAMOUNT
+https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8
+
 
 
