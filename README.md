@@ -5,6 +5,10 @@ http://103.195.103.31:2086/streams/2_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",BAND
 http://103.195.103.31:2086/streams/13_.m3u8
 
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",TV CULTURA
 http://103.195.103.31:2086/streams/19_.m3u8
 
