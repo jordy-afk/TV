@@ -8,6 +8,9 @@ http://103.195.103.31:2086/streams/13_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",TV CULTURA
 http://103.195.103.31:2086/streams/19_.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",TERRA VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1924905337.m3u8
+
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",CINEMAX
 http://103.195.103.31:2086/streams/242_.m3u8
 
