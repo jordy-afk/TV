@@ -88,7 +88,7 @@ http://95.141.37.245:8081/loadbalance/bomerang/playlist.m3u8?wmsAuthSign=c2VydmV
 
 
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",DISCOVERY KIDS
-http://95.141.37.245:8081/loadbalance/kids/chunks.m3u8
+http://95.141.37.245:8081/loadbalance/kids/chunks.m3u8?nimblesessionid=4652866&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjM0OjIyIEFNJmhhc2hfdmFsdWU9QWlNajVxK3BwNU5KZUFUbDRCUkZmQT09JnZhbGlkbWludXRlcz0yMA==
 
 
 
