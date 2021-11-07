@@ -84,3 +84,8 @@ http://95.141.37.245:8081/loadbalance/bomerang/playlist.m3u8?wmsAuthSign=c2VydmV
 http://95.141.37.245:8081/loadbalance/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDU6MzU6MjYgQU0maGFzaF92YWx1ZT1MV3phRTdkUnpQR0J6bFhpODAyK1FBPT0mdmFsaWRtaW51dGVzPTIw
 
 
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="DOCUMENTÁRIO",ANIMAL PLANET
+http://95.141.37.245:8081/loadbalance/animal/chunks.m3u8?nimblesessionid=4652619&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjIyOjM2IEFNJmhhc2hfdmFsdWU9SCtxVk9DSFVxWWRCTmM1M3RMNjU4QT09JnZhbGlkbWludXRlcz0yMA==
+
+
