@@ -61,6 +61,12 @@ http://103.195.103.31:2086/streams/112_.m3u8
 http://103.195.103.31:2086/streams/5_.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="DOCUMENTÁRIO",DISCOVERY CHANNEL 
+http://95.141.37.245:8081/loadbalance/discovery/chunks.m3u8?nimblesessionid=4652738&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjI4OjEzIEFNJmhhc2hfdmFsdWU9Y3dOaXpjYjIza3QxTzI5Ky81NFQ5Zz09JnZhbGlkbWludXRlcz0yMA==
+
+
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="VARIEDADE",DISCOVERY H&H
 http://95.141.37.245:8081/loadbalance/discoveryhome/chunks.m3u8?nimblesessionid=4652557&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjIwOjAxIEFNJmhhc2hfdmFsdWU9aHVXWDZXUnNZdVhSbWhUaHhvcHAvdz09JnZhbGlkbWludXRlcz0yMA==
 
