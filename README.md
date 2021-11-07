@@ -34,6 +34,9 @@ http://103.195.103.31:2086/streams/3_.m3u8
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",NICKLODEON
 http://103.195.103.31:2086/streams/7_.m3u8
 
+
+http://95.141.37.245:8081/loadbalance/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDU6MzU6MjYgQU0maGFzaF92YWx1ZT1MV3phRTdkUnpQR0J6bFhpODAyK1FBPT0mdmFsaWRtaW51dGVzPTIw
+
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="FILMES",WARNER CHANNEL
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_2.m3u8
 
@@ -65,5 +68,8 @@ https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",Tooncast
 http://95.141.37.245:8081/loadbalance/bomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDU6MzE6MTAgQU0maGFzaF92YWx1ZT1MZGlqMGN0ZGFvVWNFcnI4S3BhNmlBPT0mdmFsaWRtaW51dGVzPTIw
 
+
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="KIDS",CARTOON NETWORK
+http://95.141.37.245:8081/loadbalance/cartoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDU6MzU6MjYgQU0maGFzaF92YWx1ZT1MV3phRTdkUnpQR0J6bFhpODAyK1FBPT0mdmFsaWRtaW51dGVzPTIw
 
 
