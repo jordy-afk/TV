@@ -96,3 +96,6 @@ http://95.141.37.245:8081/loadbalance/kids/chunks.m3u8?nimblesessionid=4652866&w
 http://95.141.37.245:8081/loadbalance/animal/chunks.m3u8?nimblesessionid=4652619&wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDIxIDExOjIyOjM2IEFNJmhhc2hfdmFsdWU9SCtxVk9DSFVxWWRCTmM1M3RMNjU4QT09JnZhbGlkbWludXRlcz0yMA==
 
 
+#EXTINF:-1 tvg-logo="" tvg-logo="" group-title="DOCUMENTÁRIO",DISCOVERY H&H
+http://177.36.96.42:8888/http/002
+
