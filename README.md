@@ -39,3 +39,6 @@ https://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", DISCOVERY H&H
 http://177.36.96.42:8888/http/002
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADE",TLC
+http://177.36.96.42:8888/http/003
+
