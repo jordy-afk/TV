@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",GLOBO
-http://103.195.103.31:2086/streams/2_.m3u8
+http://177.36.96.42:8888/http/004
 
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="ABERTO",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1141569202.m3u8?IMDSFULL
