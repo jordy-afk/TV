@@ -1,0 +1,21 @@
+<html>
+
+<head>
+    <script type="text/javascript" charset="utf-8" src="PLAER.js"></script>
+    <script> window.clappr = window.clappr || {}; window.clappr.externals = []; function addExternal() { var url = document.getElementById("js-link"); window.clappr.externals.push(url.value); addTag(url.value); url.value = ""; }</script>
+</head>
+
+<body>
+    <section class="container">
+        <div class="main">
+            <div id="output">
+                <div id="player-wrapper" class="player"></div>
+            </div>
+        </div>
+        </div>
+    </section>
+    <footer class="footer"></footer>
+    <script> var urlParams; (function () { window.onpopstate = function () { var match, pl = /\+/g, search = /([^&=]+)=?([^&]*)/g, decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); }, query = window.location.search.substring(1); urlParams = {}; while (match = search.exec(query)) urlParams[decode(match[1])] = decode(match[2]); }; window.onpopstate(); })(); var playerElement = document.getElementById("player-wrapper"); var player = new Clappr.Player({ source: urlParams.src || "https://stmv3.samcast.com.br/jose5122/jose5122/chunklist.m3u8", height: "500", width: "100%", autoPlay: true, }); player.attachTo(playerElement);</script>
+</body>
+
+</html>
