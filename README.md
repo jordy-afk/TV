@@ -42,7 +42,7 @@ http://177.36.96.42:8888/http/002
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADE",TLC
 http://177.36.96.42:8888/http/003
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO",LOVE NATURE
-http://209.91.213.10:8088/play/011
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="DOCUMENTÁRIO",LOVE NATURE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.6270&deviceLon=-46.6350&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 
