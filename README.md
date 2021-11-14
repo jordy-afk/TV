@@ -42,3 +42,7 @@ http://177.36.96.42:8888/http/002
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADE",TLC
 http://177.36.96.42:8888/http/003
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO",LOVE NATURE
+http://209.91.213.10:8088/play/011
+
+
