@@ -111,9 +111,13 @@
        "logo":
 "https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png"
     },
-    { "title": "LOADING TV", "url": "https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1163540014.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" 
+    { 
+    "title": "LOADING TV", "url": "https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1163540014.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" 
     },
-    { "title": "REDE BRASIL", "url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w9604100.m3u8", "logo": "https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" 
+    { 
+    "title": "REDE BRASIL",
+    "url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w9604100.m3u8",
+    "logo": "https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" 
     }
 
 ]
