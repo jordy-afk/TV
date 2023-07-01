@@ -110,6 +110,8 @@
       "url": "http://tv.newurl.live/live/joiltoniptv/ilg8hy6lhkl/37126.m3u8",
        "logo":
 "https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png"
+    },
+    { "title": "LOADING TV", "url": "https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1163540014.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" 
     }
 
 ]
