@@ -119,6 +119,7 @@
     },
     { 
     "title": "NE TV", "url": "http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_TV_Nova_Era.png" 
-    }
+    },
+    { "title": "CATVE", "url": "http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" }
 
 ]
