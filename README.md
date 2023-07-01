@@ -117,6 +117,8 @@
     { 
     "title": "REDE BRASIL", "url": "https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w9604100.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Marca_rede_brasil_rgb-color.png/969px-Marca_rede_brasil_rgb-color.png"
     },
-    { "title": "NE TV", "url": "http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_TV_Nova_Era.png" }
+    { 
+    "title": "NE TV", "url": "http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_TV_Nova_Era.png" 
+    }
 
 ]
