@@ -1,16 +1,231 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
-  </channel>
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/a&amp;e-457_95x39.png" />
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="A&amp;E HD">
-    <display-name lang="pt">A&amp;E HD</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/a&amp;e-457_95x39.png" />
-    <url>http://www.netcombo.com.br</url>
-  </channel>
+{
+  "metadata": {
+    "provider": "EPG Brasil Premium",
+    "lastUpdated": "2023-11-16T15:30:00-03:00",
+    "language": "pt-BR"
+  },
+  "channels": [
+    {
+      "id": "globo",
+      "name": "TV Globo",
+      "logo": "https://i.imgur.com/3p6Qq9S.png",
+      "programs": [
+        {
+          "title": "Jornal Nacional",
+          "start": "2023-11-16T20:30:00-03:00",
+          "end": "2023-11-16T21:15:00-03:00",
+          "description": "Principal jornal do Brasil com William Bonner e Renata Vasconcellos.",
+          "category": "Jornalismo",
+          "episode": "2023-11-16"
+        },
+        {
+          "title": "Novela: Terra e Paixão",
+          "start": "2023-11-16T21:15:00-03:00",
+          "end": "2023-11-16T22:10:00-03:00",
+          "description": "Episódio diário da novela das 9.",
+          "category": "Novela",
+          "episode": "Capítulo 145"
+        }
+      ]
+    },
+    {
+      "id": "record",
+      "name": "Record TV",
+      "logo": "https://i.imgur.com/JYd5JQk.png",
+      "programs": [
+        {
+          "title": "Cidade Alerta",
+          "start": "2023-11-16T19:45:00-03:00",
+          "end": "2023-11-16T21:00:00-03:00",
+          "description": "Jornalismo policial com Marcelo Rezende.",
+          "category": "Jornalismo"
+        }
+      ]
+    },
+    {
+      "id": "sbt",
+      "name": "SBT",
+      "logo": "https://i.imgur.com/vZkQN7y.png",
+      "programs": [
+        {
+          "title": "Programa do Ratinho",
+          "start": "2023-11-16T21:30:00-03:00",
+          "end": "2023-11-16T23:00:00-03:00",
+          "description": "Show de auditório com Carlos Massa.",
+          "category": "Entretenimento"
+        }
+      ]
+    },
+    {
+      "id": "band",
+      "name": "Band",
+      "logo": "https://i.imgur.com/9m7WwzG.png",
+      "programs": [
+        {
+          "title": "Jogo Aberto",
+          "start": "2023-11-16T12:00:00-03:00",
+          "end": "2023-11-16T13:30:00-03:00",
+          "description": "Programa esportivo com debates.",
+          "category": "Esportes"
+        }
+      ]
+    },
+    {
+      "id": "redeTV",
+      "name": "RedeTV!",
+      "logo": "https://i.imgur.com/Lb4XZRc.png",
+      "programs": [
+        {
+          "title": "A Tarde É Sua",
+          "start": "2023-11-16T15:00:00-03:00",
+          "end": "2023-11-16T17:00:00-03:00",
+          "description": "Programa de auditório com Sônia Abrão.",
+          "category": "Entretenimento"
+        }
+      ]
+    },
+    {
+      "id": "globoNews",
+      "name": "GloboNews",
+      "logo": "https://i.imgur.com/Qh3V8dD.png",
+      "programs": [
+        {
+          "title": "Edição das 18h",
+          "start": "2023-11-16T18:00:00-03:00",
+          "end": "2023-11-16T19:00:00-03:00",
+          "description": "Jornalismo aprofundado.",
+          "category": "Jornalismo"
+        }
+      ]
+    },
+    {
+      "id": "sportv",
+      "name": "SporTV",
+      "logo": "https://i.imgur.com/7kFj5Yr.png",
+      "programs": [
+        {
+          "title": "Brasileirão Série A: Flamengo x Palmeiras",
+          "start": "2023-11-16T21:00:00-03:00",
+          "end": "2023-11-16T23:00:00-03:00",
+          "description": "Transmissão ao vivo do campeonato brasileiro.",
+          "category": "Esportes",
+          "live": true
+        }
+      ]
+    },
+    {
+      "id": "premiere",
+      "name": "Premiere",
+      "logo": "https://i.imgur.com/VtNdW3p.png",
+      "programs": [
+        {
+          "title": "Copa do Brasil: Corinthians x Fluminense",
+          "start": "2023-11-16T19:30:00-03:00",
+          "end": "2023-11-16T22:00:00-03:00",
+          "description": "Jogo válido pelas quartas de final.",
+          "category": "Esportes",
+          "live": true
+        }
+      ]
+    },
+    {
+      "id": "foxSports",
+      "name": "FOX Sports",
+      "logo": "https://i.imgur.com/pH0mX9t.png",
+      "programs": [
+        {
+          "title": "Lance a Lance: NBA",
+          "start": "2023-11-16T20:00:00-03:00",
+          "end": "2023-11-16T21:30:00-03:00",
+          "description": "Análise dos jogos da temporada da NBA.",
+          "category": "Esportes"
+        }
+      ]
+    },
+    {
+      "id": "hbo",
+      "name": "HBO",
+      "logo": "https://i.imgur.com/r9XQXZx.png",
+      "programs": [
+        {
+          "title": "The Last of Us",
+          "start": "2023-11-16T22:00:00-03:00",
+          "end": "2023-11-16T23:00:00-03:00",
+          "description": "Série baseada no jogo de videogame.",
+          "category": "Séries",
+          "episode": "Episódio 5"
+        }
+      ]
+    },
+    {
+      "id": "telecine",
+      "name": "Telecine Premium",
+      "logo": "https://i.imgur.com/sD8Lf7N.png",
+      "programs": [
+        {
+          "title": "Duna (2021)",
+          "start": "2023-11-16T21:00:00-03:00",
+          "end": "2023-11-16T23:50:00-03:00",
+          "description": "Ficção científica estrelada por Timothée Chalamet.",
+          "category": "Filmes"
+        }
+      ]
+    },
+    {
+      "id": "disney",
+      "name": "Disney Channel",
+      "logo": "https://i.imgur.com/4JZQq9T.png",
+      "programs": [
+        {
+          "title": "Phineas e Ferb",
+          "start": "2023-11-16T15:30:00-03:00",
+          "end": "2023-11-16T16:00:00-03:00",
+          "description": "Animação infantil.",
+          "category": "Infantil"
+        }
+      ]
+    },
+    {
+      "id": "nickelodeon",
+      "name": "Nickelodeon",
+      "logo": "https://i.imgur.com/9vQkZ7J.png",
+      "programs": [
+        {
+          "title": "Bob Esponja",
+          "start": "2023-11-16T16:00:00-03:00",
+          "end": "2023-11-16T16:30:00-03:00",
+          "description": "As aventuras do personagem no fundo do mar.",
+          "category": "Infantil"
+        }
+      ]
+    },
+    {
+      "id": "cartoon",
+      "name": "Cartoon Network",
+      "logo": "https://i.imgur.com/3vJkQ9T.png",
+      "programs": [
+        {
+          "title": "Hora de Aventura",
+          "start": "2023-11-16T17:00:00-03:00",
+          "end": "2023-11-16T17:30:00-03:00",
+          "description": "Aventuras de Finn e Jake.",
+          "category": "Infantil"
+        }
+      ]
+    },
+    {
+      "id": "ae",
+      "name": "A&E",
+      "logo": "https://i.imgur.com/7vQkZ9T.png",
+      "programs": [
+        {
+          "title": "O Interrogatório",
+          "start": "2023-11-16T22:30:00-03:00",
+          "end": "2023-11-16T23:30:00-03:00",
+          "description": "Série policial.",
+          "category": "Séries"
+        }
+      ]
+    }
+  ]
+}
